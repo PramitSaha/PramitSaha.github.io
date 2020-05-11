@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #5eb0cc;
 }
 a:hover {
     text-decoration: underline;
@@ -23,14 +23,49 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+
+h3 {
     font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+p {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: lighter;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
+
+
+.leftside_image {
+  float: left;
+  margin-top:0px;
+  margin-right: 30px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+  border-radius: 15%;
+  max-width: 40%;
+  height: auto;
+}
+
 footer {
+    margin-top: 100px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    color: #999999;
+    font-weight:lighter;
+}
+
+ul li{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: lighter;
+    font-size:1em;
+    line-height: 1.5em;
+    list-style-type: circle;
 }
 
 ul.posts { 
@@ -40,4 +75,69 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+
+/*for responsive square grid*/
+
+.c-container{
+    height:100%;
+    margin-top:50px;
+    white-space:nowrap;
+    background-color:#FFFFFF;
+    font-size:0;
+}
+
+/*.c-squares{
+    width:30vh;
+    height:30vh;
+    display:inline;
+}*/
+
+.c-link{
+    position:relative;
+    display:inline-block;
+    height:30vh;
+    width:30vh;
+    font-size:small;
+}
+.c-thumb{
+    height:30vh;
+    width:30vh;
+    margin:0;
+}
+
+.c-name{
+    z-index:5;
+    background-color:#14277D;
+    opacity:0;
+    /* cosmetic */ color:#FFF;font-size:2em;transition:opacity 500ms;
+}
+.c-name2{
+    z-index:5;
+    background-color:#000;
+    opacity:0;
+    /* cosmetic */ color:#FFF;font-size:2em;transition:opacity 500ms;
+}
+
+.c-link:hover .c-name{
+    opacity:0.8;
+}
+
+.c-link:hover .c-name2{
+    opacity:0.8;
+}
+
+
+
+/* used class from site css */
+br.empty{
+    display:block;
+    font-size:0;margin:0;padding:0;height:0;line-height:0;
+}
+
+.stm{
+    position:absolute;
+    top:0;right:0;bottom:0;left:0;
+    margin:0;
 }

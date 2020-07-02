@@ -2,6 +2,7 @@
 layout: default
 title: Research
 ---
+## List of projects:
 
 1. Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences
 

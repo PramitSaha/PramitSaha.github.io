@@ -3,7 +3,7 @@ layout: default
 title: Pramit Saha
 ---
 # PRAMIT SAHA #
-<img src="pramit1.jpg" alt="Photo" class="leftside_image">
+<img src="img/pramit1.jpg" alt="Photo" class="leftside_image">
 
 Hi there! Thanks for visiting my page! 
 

@@ -7,7 +7,7 @@ layout: home
 ---
 ## Updates
 
-[Oct. 2023] Attended the MICCAI 2023 conference in Vancouver, Canada to present my research. Happy to announce I won the *Best Paper Award* at the UNSURE workshop at MICCAI!
+[Oct. 2023] Attended the MICCAI 2023 conference in Vancouver, Canada to present my research. Happy to announce the paper was selected as one the top 20 Highlights.
 
 [Aug. 2023] I have had two papers accepted at workshops at MICCAI, I will be presenting my paper at the UNSURE workshop in October!
 

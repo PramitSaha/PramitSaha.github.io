@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Pramit Saha
+email: Harry.Anthony@eng.ox.ac.uk
+description: Hello world! My name is Pramit Saha and I am a DPhil student at the <a href="https://www.ox.ac.uk/">University of Oxford</a>. As part of the <a href="https://ibme.ox.ac.uk/">IBME group</a>, my research focuses on improving the reliability of deep neural networks in the field of medical imaging, with a particular emphasis on Out-of-distribution (OOD) detection. OOD detection is critical for ensuring the accuracy and safety of medical imaging systems, as it helps to identify when input data differs from its training data. Through my research, I aim to develop novel methods for deep learning algorithms to detect OOD inputs and improve the overall performance of medical imaging systems. Prior to my doctoral studies, I obtained a first class master's degree in Physics from Imperial College London.
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Harry Anthony
+github_username:  HarryAnthony
+
+user: Harry Anthony
+picture: https://raw.githubusercontent.com/HarryAnthony/harryanthony.github.io/master/images/Photo.jpg'
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-mathjax2
+
+# Google Analytics
+google_analytics: G-HD8XMF7G1E
+
+# minima:
+#   skin: dark
+
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - dollarmath
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

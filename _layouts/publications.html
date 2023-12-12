@@ -1,0 +1,151 @@
+---
+layout: default
+---
+
+<h1>Research - <a href="https://scholar.google.com/citations?hl=en&user=Qml3h9gAAAAJ">Google Scholar</a></h1>
+
+<p> Below is a collection of my publications, along with their corresponding code, posters and other materials. If you would like to discuss this research with me, please feel free to contact me through my email <a href="mailto:harry.anthony@eng.ox.ac.uk">harry.anthony@eng.ox.ac.uk</a>. </p>
+
+
+<div class="btn-container">
+      <label class="switch btn-color-mode-switch">
+            <input type="checkbox" name="color_mode" id="color_mode" value="1" onclick="updateVariable()">
+            <label for="color_mode" data-on="First Author" data-off="Contributor" class="btn-color-mode-switch-inner"></label>
+        </label>
+</div>
+
+<script>
+function updateVariable() {
+    var isToggled = document.getElementById('color_mode').checked;
+    if (isToggled) {
+        document.body.classList.add('dark-preview');
+        renderPosts(true);
+    } else {
+        document.body.classList.remove('dark-preview');
+        renderPosts(false);
+    }
+}
+</script>
+
+<script>
+window.onload = function() {
+  updateVariable();
+  updateVariable();
+};
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/assets/toggle.js"></script>
+
+
+<script>
+function renderPosts(checkbox_checked) {
+    var posts = document.getElementsByClassName("post-info");
+
+    for (var i = 0; i < posts.length; i++) {
+        var post = posts[i];
+        var isTrue = post.innerText.includes(", Harry Anthony");
+
+        if (checkbox_checked) {
+            if (isTrue) {
+                post.style.display = "none";
+            } else {
+                 post.style.display = "block";
+            }
+        } else {
+            post.style.display = "block";
+        }
+    }
+}
+</script>
+
+<style>
+@media (max-width: 768px) {
+    .publications-wrapper {
+        flex-direction: column;
+        align-items: left;
+    }
+    .centered_im {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .centered_im img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+</style>
+
+
+
+<div class="publications-wrapper">
+    {% for post in site.posts %}
+        <div class="post-info" id="post{{ forloop.index }}">
+            <div class="centered_im" style = "margin-right: 1cm;">
+                <img src="{{ post.image }}" alt="">
+            </div>
+            <div class="post-title">    
+                <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px;"> <h3> {{ post.title }} </h3> </a>
+                <p> 
+                    {% if post.authors contains 'Harry Anthony' %}
+                        {% assign parts = post.authors | split: 'Harry Anthony' %}
+                        <span>{{ parts[0] }}</span>
+                        <strong>Harry Anthony</strong>
+                        <span>{{ parts[1] }}</span>
+                    {% else %}
+                        {{ post.authors }}
+                    {% endif %}
+                </p>
+                <p class="post-place"> {{ post.place }} </p>
+                {% if post.comments %}   
+                    <p class="post-comments" style="display: flex; align-items: center;">&#x1F3C6; {{ post.comments }} </p>
+                {% else %}
+                    <p class="post-comments"></p>
+                {% endif %}
+                <div class="post-paper">
+                    {% if post.paper %}   
+                        <a href="{{ post.paper | prepend: site.baseurl }}"><button class="rounded-button" type="button">Paper</button></a>
+                    {% endif %}
+                    {% if post.arxiv %} 
+                        <a href="{{ post.arxiv | prepend: site.baseurl }}"><button class="rounded-button" type="button">Arxiv</button></a>
+                    {% endif %}
+                    {% if post.code %} 
+                        <a href="{{ post.code | prepend: site.baseurl }}"><button class="rounded-button" type="button">Code</button></a>
+                    {% endif %}
+                    {% if post.poster %} 
+                     <a href="{{ post.poster | prepend: site.baseurl }}"><button class="rounded-button" type="button">Poster</button></a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+
+
+<style>
+    .rounded-button {
+        border: none;
+        border-radius: 14px;
+        padding: 7px 16px;
+        background-color: #639f95;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; 
+        font-weight: 200;
+    }
+
+    .rounded-button:hover {
+        background-color: #73c5b9;
+    }
+    .disabled {
+        cursor: not-allowed;
+    }
+   
+</style>

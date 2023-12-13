@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pramit Saha
-email: Harry.Anthony@eng.ox.ac.uk
+email: pramit.saha@eng.ox.ac.uk
 description: Hello world! My name is Pramit Saha and I am a DPhil student at the <a href="https://www.ox.ac.uk/">University of Oxford</a>. As part of the <a href="https://ibme.ox.ac.uk/">IBME group</a>, my research focuses on improving the reliability of deep neural networks in the field of medical imaging, with a particular emphasis on Out-of-distribution (OOD) detection. OOD detection is critical for ensuring the accuracy and safety of medical imaging systems, as it helps to identify when input data differs from its training data. Through my research, I aim to develop novel methods for deep learning algorithms to detect OOD inputs and improve the overall performance of medical imaging systems. Prior to my doctoral studies, I obtained a first class master's degree in Physics from Imperial College London.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Harry Anthony
-github_username:  HarryAnthony
+#twitter_username: Harry Anthony
+#github_username:  HarryAnthony
 
-user: Harry Anthony
+user: Pramit Saha
 picture: https://raw.githubusercontent.com/HarryAnthony/harryanthony.github.io/master/images/Photo.jpg'
 
 

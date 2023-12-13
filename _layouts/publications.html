@@ -4,7 +4,7 @@ layout: default
 
 <h1>Research - <a href="https://scholar.google.co.in/citations?user=Sb7d-rsAAAAJ">Google Scholar</a></h1>
 
-<p> Below is a collection of my publications. If you would like to discuss this research with me, please feel free to contact me through my email <a href="mailto:harry.anthony@eng.ox.ac.uk">harry.anthony@eng.ox.ac.uk</a>. </p>
+<p> Below is a collection of my publications. If you would like to discuss this research with me, please feel free to contact me through my email <a href="mailto:pramit.saha@eng.ox.ac.uk">pramit.saha@eng.ox.ac.uk</a>. </p>
 
 
 <div class="btn-container">
@@ -45,7 +45,7 @@ function renderPosts(checkbox_checked) {
 
     for (var i = 0; i < posts.length; i++) {
         var post = posts[i];
-        var isTrue = post.innerText.includes(", Harry Anthony");
+        var isTrue = post.innerText.includes(", Pramit Saha");
 
         if (checkbox_checked) {
             if (isTrue) {
@@ -88,10 +88,10 @@ function renderPosts(checkbox_checked) {
             <div class="post-title">    
                 <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px;"> <h3> {{ post.title }} </h3> </a>
                 <p> 
-                    {% if post.authors contains 'Harry Anthony' %}
-                        {% assign parts = post.authors | split: 'Harry Anthony' %}
+                    {% if post.authors contains 'Pramit Saha' %}
+                        {% assign parts = post.authors | split: 'Pramit Saha' %}
                         <span>{{ parts[0] }}</span>
-                        <strong>Harry Anthony</strong>
+                        <strong>Pramit Saha</strong>
                         <span>{{ parts[1] }}</span>
                     {% else %}
                         {{ post.authors }}

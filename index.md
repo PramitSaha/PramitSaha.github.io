@@ -34,6 +34,6 @@ layout: home
 
 **[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2023.
 
-**[Oct. 2020]** Presented our paper Learning Joint Articulatory-Acoustic Representations with Normalizing Flows at INTERSPEECH 2023.
+**[Oct. 2020]** Presented our paper on learning multimodal representation at INTERSPEECH 2023.
 
-**[Jan. 2020]** Co-authored a book chapter in Computational Biomechanics for Medicine, Springer
+**[Jan. 2020]** Co-authored a book chapter on Reinforcement Learning in Computational Biomechanics for Medicine, Springer

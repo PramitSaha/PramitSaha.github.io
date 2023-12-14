@@ -12,7 +12,7 @@ layout: home
 
 **[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
 
-**[Aug. 2023]** My first-author paper on Semi-Supervised Federated Learning received an early-accept in MICCAI 2023.
+**[Aug. 2023]** My first-author paper on Semi-Supervised Federated Learning early-accepted in MICCAI 2023.
 
 **[Oct. 2022]** Elected as the Biomed Panel representative at the Engineering Science Graduate Joint Consultative Committee (GJCC)
 

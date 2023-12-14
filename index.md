@@ -36,7 +36,9 @@ layout: home
 
 **[Oct. 2020]** Presented our paper on learning multimodal representations at INTERSPEECH 2023.
 
-**[May 2020]** My first-author paper on ultrasound video-based speech synthesis early-accepted in MICCAI 2023.
+**[July 2020]** My first-author paper accepted in INTERSPEECH 2023.
+
+**[May 2020]** My first-author paper early-accepted in MICCAI 2023.
 
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by UBC
 

@@ -8,7 +8,7 @@ layout: home
 ## Updates
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on "Machine Learning: An Industry Academia Initiative", organized by NIT Rourkela, India.
 
-**[Oct. 2023]** Attended the MICCAI 2023 conference in Vancouver, Canada to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one the top 20 poster Highlights (Audience Choice) under the category: Which work has the potential to impact other applications of AI and CV?
+**[Oct. 2023]** Attended the MICCAI 2023 to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one the top 20 poster Highlights under the category: Which work has the potential to impact other applications of AI and CV?
 
 **[Aug. 2023]** Two papers in total accepted at MICCAI 2023 main conference and one paper accepted at Machine Learning in Medical Imaging (MLMI 2023) workshop at MICCAI 2023.
 

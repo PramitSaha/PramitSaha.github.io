@@ -28,8 +28,12 @@ layout: home
 
 **[Dec. 2020]** Three papers accepted at ISSP 2020
 
+**[Nov. 2020]** Our work has been featured by Computer Vision News, RSIP Vision.
+
 **[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
 
 **[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2023.
 
 **[Oct. 2020]** Presented our paper Learning Joint Articulatory-Acoustic Representations with Normalizing Flows at INTERSPEECH 2023.
+
+**[Jan. 2020]** Co-authored a book chapter in Computational Biomechanics for Medicine, Springer

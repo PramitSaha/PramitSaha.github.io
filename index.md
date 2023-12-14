@@ -8,7 +8,7 @@ layout: home
 ## Updates
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on "Machine Learning: An Industry Academia Initiative", organized by NIT Rourkela, India.
 
-**[Oct. 2023]** Attended MICCAI 2023 to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one of the **Top 20 Poster Highlights** under the category: Which work has the potential to impact other applications of AI and CV?
+**[Oct. 2023]** Attended MICCAI 2023 to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one of the Top 20 Poster Highlights under the category: Which work has the potential to impact other applications of AI and CV?
 
 **[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
 
@@ -26,11 +26,9 @@ layout: home
 
 **[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 
-**[Dec. 2020]** Three papers accepted at ISSP 2020
+**[Dec. 2020]** Three short papers accepted at ISSP 2020
 
 **[Nov. 2020]** Our work has been featured in Computer Vision News by RSIP Vision.
-
-**[Oct. 2020]**
 
 **[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
 

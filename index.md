@@ -22,7 +22,7 @@ layout: home
 
 **[Oct. 2021]** Began studying for a DPhil in Engineering Science at the University of Oxford.
 
-**[Feb. 2021]** Defended my Master's thesis with 92% from the University of British Columbia (UBC).
+**[Feb. 2021]** Defended my Master's thesis with 92% score from the University of British Columbia (UBC).
 
 **[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 

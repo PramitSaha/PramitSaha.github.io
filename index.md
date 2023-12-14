@@ -8,7 +8,7 @@ layout: home
 ## Updates
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on "Machine Learning: An Industry Academia Initiative", organized by NIT Rourkela, India.
 
-**[Oct. 2023]** Attended MICCAI 2023 to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one the top 20 poster Highlights under the category: Which work has the potential to impact other applications of AI and CV?
+**[Oct. 2023]** Attended MICCAI 2023 to present my work on Semi-Supervised Federated Learning. Happy to announce that the paper was selected as one of the **Top 20 Poster Highlights** under the category: Which work has the potential to impact other applications of AI and CV?
 
 **[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
 
@@ -34,6 +34,6 @@ layout: home
 
 **[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2023.
 
-**[Oct. 2020]** Presented our paper on learning multimodal representation at INTERSPEECH 2023.
+**[Oct. 2020]** Presented our paper on learning multimodal representations at INTERSPEECH 2023.
 
-**[Jan. 2020]** Co-authored a book chapter on Reinforcement Learning in Computational Biomechanics for Medicine, Springer
+**[Jan. 2020]** Co-authored a book chapter in Computational Biomechanics for Medicine, Springer

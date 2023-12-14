@@ -18,7 +18,7 @@ layout: home
 
 **[July 2022]** Elected as the Christ Church GCR Committee Member and Photography Officer.
 
-**[June 2022]** Gave an Invited Talk on Data Sharing across Institutions: Federated Learning at the workshop "The role of AI in transforming healthcare", jointly organized by the University of Oxford, UK, and THSTI, India.
+**[June 2022]** Gave an Invited Talk on Data Sharing across Institutions: Federated Learning at the workshop "The role of AI in transforming healthcare", jointly organized by the University of Oxford (UK) and THSTI (India).
 
 **[Oct. 2021]** Began studying for a DPhil in Engineering Science at the University of Oxford.
 

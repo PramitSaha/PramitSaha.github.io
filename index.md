@@ -26,7 +26,7 @@ layout: home
 
 **[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 
-**[Dec. 2020]** Presented our paper on hand gesture to speech synthesis entitled "SPEAK WITH YOUR HANDS : Using Continuous Hand Gestures to control Articulatory Speech Synthesizer" at ISSP 2020
+**[Dec. 2020]** Three papers accepted at ISSP 2020
 
 **[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
 

@@ -14,7 +14,7 @@ layout: home
 
 **[May 2023]** My first-author paper on Semi-Supervised Federated Learning early-accepted in MICCAI 2023.
 
-**[Oct. 2022]** Elected as the Biomed Panel representative at the Engineering Science Graduate Joint Consultative Committee (GJCC)
+**[Oct. 2022]** Elected as the Biomed Panel representative at the Engineering Science GJCC
 
 **[July 2022]** Elected as the Christ Church GCR Committee Member and Photography Officer.
 
@@ -22,7 +22,7 @@ layout: home
 
 **[Oct. 2021]** Began studying for a DPhil in Engineering Science at the University of Oxford.
 
-**[Feb. 2021]** Defended my Master's thesis with Thesis Grade: 92% and completed MASc. with first class from the University of British Columbia (UBC).
+**[Feb. 2021]** Defended my Master's thesis with 92% from the University of British Columbia (UBC).
 
 **[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 

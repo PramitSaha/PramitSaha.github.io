@@ -129,10 +129,10 @@ window.onload = function() {
             <div class="post-title">    
                 <a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px;"> <h3> {{ post.title }} </h3> </a>
                 <p> 
-                    {% if post.authors contains 'Harry Anthony' %}
-                        {% assign parts = post.authors | split: 'Harry Anthony' %}
+                    {% if post.authors contains 'Pramit Saha' %}
+                        {% assign parts = post.authors | split: 'Pramit Saha' %}
                         <span>{{ parts[0] }}</span>
-                        <strong>Harry Anthony</strong>
+                        <strong>Pramit Saha</strong>
                         <span>{{ parts[1] }}</span>
                     {% else %}
                         {{ post.authors }}
@@ -161,7 +161,7 @@ window.onload = function() {
             </div>
         </div>
     {% endfor %}
-    <a href='https://ibme.ox.ac.uk/'> <img src="images/logo.jpg" alt="Logo of Oxford University" style="width:300px;height:100px;"></a>
+    <a href='https://ibme.ox.ac.uk/'> <img src="images/dept.jpg" alt="Logo of Oxford University" style="width:300px;height:100px;"></a>
 </div>
 
 

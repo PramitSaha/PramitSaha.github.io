@@ -32,7 +32,7 @@ layout: home
 
 **[Nov. 2020]** Our work has been featured in <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">Computer Vision News</a> by RSIP Vision.
 
-**[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
+**[Oct. 2020]** Received the prestigious <a href="http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/>"Young Scientist Award"</a> from MICCAI Society.
 
 **[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2020.
 

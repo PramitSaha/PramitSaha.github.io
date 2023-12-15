@@ -20,11 +20,11 @@ layout: home
 
 **[July 2022]** Elected as the <a href="https://www.chchgcr.com/">Christ Church GCR</a> Committee Member and Photography Officer.
 
-**[June 2022]** Gave an Invited Talk on Data Sharing across Institutions: Federated Learning at the workshop "The role of AI in transforming healthcare", jointly organized by the University of Oxford (UK) and THSTI (India).
+**[June 2022]** Gave an Invited Talk on Data Sharing across Institutions: Federated Learning at the workshop <a href="https://www.garbhinicohort.in/workshop/">"The role of AI in transforming healthcare"</a>, jointly organized by the University of Oxford (UK) and THSTI (India).
 
-**[Oct. 2021]** Began studying for a DPhil in Engineering Science at the University of Oxford.
+**[Oct. 2021]** Began studying for a DPhil in <a href="https://eng.ox.ac.uk/">Engineering Science</a> at the University of Oxford.
 
-**[Feb. 2021]** Defended my Master's thesis with 92% score from the University of British Columbia (UBC).
+**[Feb. 2021]** Defended my Master's thesis with 92% score from the <a href="https://www.ubc.ca/">University of British Columbia (UBC)</a>.
 
 **[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 

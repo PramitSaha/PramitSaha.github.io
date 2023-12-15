@@ -75,28 +75,28 @@ layout: home
 
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
-       •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
+      •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 
-       •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
+      •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
-       •  IEEE ISBI 2024
+      •  IEEE ISBI 2024
   
-       •  MICCAI 2023
+      •  MICCAI 2023
   
-       •  DART MICCAI 2022
+      •  DART MICCAI 2022
   
-       •  MICCAI 2020
+      •  MICCAI 2020
   
-       •  MICCAI 2019
+      •  MICCAI 2019
   
-       •  IEEE TENCON 2016
+      •  IEEE TENCON 2016
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
-       •  IEEE Access
+      •  IEEE Access
   
-       •  Neural Computing & Applications
+      •  Neural Computing & Applications
 
 

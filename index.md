@@ -82,15 +82,21 @@ layout: home
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
   •  IEEE ISBI 2024
+  
   •  MICCAI 2023
+  
   •  DART MICCAI 2022
+  
   •  MICCAI 2020
+  
   •  MICCAI 2019
+  
   •  IEEE TENCON 2016
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
   •  IEEE Access
+  
   •  Neural Computing & Applications
 
 

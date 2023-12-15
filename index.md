@@ -14,11 +14,11 @@ layout: home
 
 **[July 2023]** Cofounded AI-based start-up <a href="https://coooool.space">coooool.space</a> on cross-modal information search.
 
-**[May 2023]** My first-author paper on Semi-Supervised Federated Learning early-accepted in MICCAI 2023.
+**[May 2023]** My first-author paper on <a href="https://arxiv.org/pdf/2310.18815.pdf">Semi-Supervised Federated Learning</a> early-accepted in <a href="https://conferences.miccai.org/2023/en/default.asp">MICCAI 2023</a>.
 
 **[Oct. 2022]** Elected as the Biomed Panel representative at the Engineering Science GJCC
 
-**[July 2022]** Elected as the Christ Church GCR Committee Member and Photography Officer.
+**[July 2022]** Elected as the <a href="https://www.chchgcr.com/">Christ Church GCR</a> Committee Member and Photography Officer.
 
 **[June 2022]** Gave an Invited Talk on Data Sharing across Institutions: Federated Learning at the workshop "The role of AI in transforming healthcare", jointly organized by the University of Oxford (UK) and THSTI (India).
 

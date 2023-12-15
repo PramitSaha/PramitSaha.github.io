@@ -62,8 +62,7 @@ layout: home
 
 •  <a href="https://www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project">UBC ECE Graduate Student Achievement</a>
 
-<br>
-<br>
+
 <br>
 <br>
 
@@ -76,15 +75,13 @@ layout: home
 •  "Making hands talk - Hand gesture-based speech synthesis" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks">UBC Language Sciences Flash Talk: TEACHING, MAPPING, AND UNDERSTANDING THE
 SOUNDS OF LANGUAGE</a>
 
-<br>
-<br>
+
 <br>
 <br>
 
 ## Teaching
 
-<br>
-<br>
+
 <br>
 <br>
 

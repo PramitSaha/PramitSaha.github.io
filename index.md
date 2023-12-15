@@ -8,9 +8,9 @@ layout: home
 ## Updates
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on <a href="https://twitter.com/nitrourkela/status/1719255807605498108">"Machine Learning: An Industry Academia Initiative"</a>, organized by NIT Rourkela, India.
 
-**[Oct. 2023]** Attended MICCAI 2023 to present my work on <a href="https://arxiv.org/pdf/2310.18815.pdf">Semi-Supervised Federated Learning</a>. Happy to announce that the paper was selected as one of the Top 20 Poster Highlights under the category: Which work has the potential to impact other applications of AI and CV?
+**[Oct. 2023]** Attended <a href="https://conferences.miccai.org/2023/en/default.asp">MICCAI 2023</a> to present my work on <a href="https://arxiv.org/pdf/2310.18815.pdf">Semi-Supervised Federated Learning</a>. Happy to announce that the paper was selected as one of the Top 20 Poster Highlights under the category: Which work has the potential to impact other applications of AI and CV?
 
-**[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
+**[Aug. 2023]** Two papers accepted at <a href="https://conferences.miccai.org/2023/en/default.asp">MICCAI 2023</a> main conference and one paper at <a href="https://sites.google.com/view/mlmi2023/">MLMI workshop</a>.
 
 **[July 2023]** Cofounded AI-based start-up <a href="https://coooool.space">coooool.space</a> on cross-modal information search.
 

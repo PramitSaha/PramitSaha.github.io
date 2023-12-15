@@ -30,7 +30,7 @@ layout: home
 
 **[Dec. 2020]** Three short papers accepted at  <a href="https://issp2020.yale.edu/">ISSP 2020</a>.
 
-**[Nov. 2020]** Our work has been featured in Computer Vision News by RSIP Vision.
+**[Nov. 2020]** Our work has been featured in <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">Computer Vision News</a> by RSIP Vision.
 
 **[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
 

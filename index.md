@@ -36,7 +36,7 @@ layout: home
 
 **[Oct. 2020]** Presented our paper on <a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_45">Deep Learning-based speech synthesis from Ultrasound video-based tongue movements</a> at <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
 
-**[Oct. 2020]** Presented our paper on learning multimodal representations at <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
+**[Oct. 2020]** Presented our paper on <a href="https://arxiv.org/abs/2005.09463">learning multimodal representations</a> at <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
 
 **[July 2020]** My first-author <a href="https://arxiv.org/abs/2005.09463">paper</a> accepted in <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
 

@@ -38,11 +38,11 @@ layout: home
 
 **[Oct. 2020]** Presented our paper on learning multimodal representations at <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
 
-**[July 2020]** My first-author paper accepted in <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
+**[July 2020]** My first-author <a href="https://arxiv.org/abs/2005.09463">paper</a> accepted in <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
 
 **[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks">UBC Online Flash Talks</a>.
 
-**[May 2020]** My first-author paper early-accepted in <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
+**[May 2020]** My first-author <a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_45">paper</a> early-accepted in <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
 
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by UBC
 

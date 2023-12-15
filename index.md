@@ -40,6 +40,8 @@ layout: home
 
 **[July 2020]** My first-author paper accepted in INTERSPEECH 2023.
 
+**[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks"> UBC Online Flash Talks</a> 
+
 **[May 2020]** My first-author paper early-accepted in MICCAI 2023.
 
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by UBC

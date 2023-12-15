@@ -69,6 +69,10 @@ layout: home
 
 ## Invited Talk
 
+•  Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on <a href="https://twitter.com/nitrourkela/status/1719255807605498108">"Machine Learning: An Industry Academia Initiative"</a>
+•  Data Sharing across Institutions: Federated Learning at the workshop <a href="https://www.garbhinicohort.in/workshop/">"The role of AI in transforming healthcare"</a>
+•  "Making hands talk - Hand gesture-based speech synthesis" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks">UBC Language Sciences Flash Talk: TEACHING, MAPPING, AND UNDERSTANDING THE
+SOUNDS OF LANGUAGE</a>
 
 <br>
 <br>

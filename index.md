@@ -72,7 +72,7 @@ layout: home
 
 ## Services
 
-    **Program Committee**
+   **Program Committee**
 
    •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 

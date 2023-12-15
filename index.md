@@ -26,9 +26,9 @@ layout: home
 
 **[Feb. 2021]** Defended my Master's thesis with 92% score from the <a href="https://www.ubc.ca/">University of British Columbia (UBC)</a>.
 
-**[Jan. 2021]** Submitted my 237 page Master's thesis entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
+**[Jan. 2021]** Submitted my 237 page <a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0396540">Master's thesis</a> entitled "Moves made easy : deep learning-based reduction of human motor control efforts leveraging categorical perceptual constraint"
 
-**[Dec. 2020]** Three short papers accepted at ISSP 2020
+**[Dec. 2020]** Three short papers accepted at  <a href="https://issp2020.yale.edu/">ISSP 2020</a>.
 
 **[Nov. 2020]** Our work has been featured in Computer Vision News by RSIP Vision.
 

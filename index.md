@@ -73,13 +73,13 @@ layout: home
 
 ## Services
 
-<h4 style="margin:0 10px 0;">**Program Committee**</h4>
+<h4 style="margin:0 10px 0;">Program Committee</h4>
 
        •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 
        •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 
-<h4 style="margin:0 10px 0;">**Conference Reviewer**</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
        •  IEEE ISBI 2024
   

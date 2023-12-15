@@ -51,7 +51,7 @@ layout: home
 
 ## Media/Coverage
 
-1.  <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">Computer Vision News</a> - November 2020, RSIP Vision
+1.  <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">MICCAI Society Young Scientist Award</a> - Computer Vision News, RSIP Vision
 
 2.  <a href="https://www.youtube.com/watch?v=R5idxOkZiCk">What if you could hear new music by Satchmo?</a> UBC researchers and speech from brain signals
 

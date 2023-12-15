@@ -44,7 +44,7 @@ layout: home
 
 **[May 2020]** My first-author <a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_45">paper</a> early-accepted in <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
 
-**[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by <a href="https://www.youtube.com/watch?v=R5idxOkZiCkUBC">UBC</a>
+**[Jan. 2020]** Our work on generating speech from hand movements and brain signals <a href="https://www.youtube.com/watch?v=R5idxOkZiCkUBC">featured by UBC</a>
 
 **[Jan. 2020]** Co-authored a <a href="https://link.springer.com/chapter/10.1007/978-3-030-15923-8_11">book chapter</a> in <a href="https://link.springer.com/book/10.1007/978-3-030-15923-8">Computational Biomechanics for Medicine, Springer</a>
 

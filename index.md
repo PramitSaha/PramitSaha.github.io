@@ -12,6 +12,8 @@ layout: home
 
 **[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
 
+**[July 2023]** Cofounded AI-based start up coooool.space for cross-modal information search and management.
+
 **[May 2023]** My first-author paper on Semi-Supervised Federated Learning early-accepted in MICCAI 2023.
 
 **[Oct. 2022]** Elected as the Biomed Panel representative at the Engineering Science GJCC

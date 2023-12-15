@@ -48,4 +48,14 @@ layout: home
 
 **[Jan. 2020]** Co-authored a <a href="https://link.springer.com/chapter/10.1007/978-3-030-15923-8_11">book chapter</a> in <a href="https://link.springer.com/book/10.1007/978-3-030-15923-8">Computational Biomechanics for Medicine, Springer</a>
 
-##** Updates**
+## Media/Coverage
+
+## Invited Talk
+
+## Teaching
+
+## Services
+
+
+
+

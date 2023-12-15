@@ -46,4 +46,5 @@ layout: home
 
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by UBC
 
-**[Jan. 2020]** Co-authored a book chapter in Computational Biomechanics for Medicine, Springer
+**[Jan. 2020]** Co-authored a <a href="https://link.springer.com/chapter/10.1007/978-3-030-15923-8_11">book chapter</a> in <a href="https://link.springer.com/book/10.1007/978-3-030-15923-8">Computational Biomechanics for Medicine, Springer</a>
+

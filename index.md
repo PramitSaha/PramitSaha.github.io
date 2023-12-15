@@ -74,7 +74,7 @@ layout: home
 
 **Program Committee**
 
- •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
+   •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 
  •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 

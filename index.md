@@ -72,13 +72,13 @@ layout: home
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Program Committee</h4>
+**Program Committee**
 
       •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 
       •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 
-                  #  Conference Reviewer
+**Conference Reviewer**
 
       •  IEEE ISBI 2024
   
@@ -92,7 +92,7 @@ layout: home
   
       •  IEEE TENCON 2016
 
-<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+**Journal Reviewer**
 
       •  IEEE Access
   

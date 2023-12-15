@@ -64,15 +64,21 @@ layout: home
 
 <br>
 <br>
+<br>
+<br>
 
 ## Invited Talk
 
 
 <br>
 <br>
+<br>
+<br>
 
 ## Teaching
 
+<br>
+<br>
 <br>
 <br>
 
@@ -103,6 +109,8 @@ layout: home
    •  IEEE Access
   
    •  Neural Computing & Applications
+<br>
+<br>
 <br>
 <br>
 

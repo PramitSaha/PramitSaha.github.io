@@ -49,6 +49,8 @@ layout: home
 
 **[Jan. 2020]** Co-authored a <a href="https://link.springer.com/chapter/10.1007/978-3-030-15923-8_11">book chapter</a> in <a href="https://link.springer.com/book/10.1007/978-3-030-15923-8">Computational Biomechanics for Medicine, Springer</a>
 
+
+
 ## Media/Coverage
 
 •  <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">MICCAI Society Young Scientist Award</a> - Computer Vision News, RSIP Vision
@@ -59,17 +61,36 @@ layout: home
 
 •  <a href="www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project">UBC ECE Graduate Student Achievement</a>
 
+
+
 ## Invited Talk
+
+
 
 ## Teaching
 
+
+
 ## Services
+
 <h4 style="margin:0 10px 0;">Program Committee</h4>
-•  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
-•  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
+
+  •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
+
+  •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
+
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+
+  •  IEEE ISBI 2024
+  •  MICCAI 2023
+  •  DART MICCAI 2022
+  •  MICCAI 2020
+  •  MICCAI 2019
+  •  IEEE TENCON 2016
+
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
-
+  •  IEEE Access
+  •  Neural Computing & Applications
 
 

@@ -34,7 +34,7 @@ layout: home
 
 **[Oct. 2020]** Received the prestigious <a href="http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/">"Young Scientist Award"</a> from <a href="http://www.miccai.org">MICCAI Society</a>.
 
-**[Oct. 2020]** Presented our paper on <a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_45">Deep Learning-based speech synthesis from Ultrasound video-based tongue movements/a> at <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
+**[Oct. 2020]** Presented our paper on <a href="https://link.springer.com/chapter/10.1007/978-3-030-59716-0_45">Deep Learning-based speech synthesis from Ultrasound video-based tongue movements</a> at <a href="https://miccai2020.org/en/">MICCAI 2020</a>.
 
 **[Oct. 2020]** Presented our paper on learning multimodal representations at <a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a>.
 

@@ -34,15 +34,15 @@ layout: home
 
 **[Oct. 2020]** Received the prestigious "Young Scientist Award" from MICCAI Society.
 
-**[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2023.
+**[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2020.
 
-**[Oct. 2020]** Presented our paper on learning multimodal representations at INTERSPEECH 2023.
+**[Oct. 2020]** Presented our paper on learning multimodal representations at INTERSPEECH 2020.
 
-**[July 2020]** My first-author paper accepted in INTERSPEECH 2023.
+**[July 2020]** My first-author paper accepted in INTERSPEECH 2020.
 
-**[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks"> UBC Online Flash Talks</a> 
+**[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks"> UBC Online Flash Talks</a>.
 
-**[May 2020]** My first-author paper early-accepted in MICCAI 2023.
+**[May 2020]** My first-author paper early-accepted in MICCAI 2020.
 
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals featured by UBC
 

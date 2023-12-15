@@ -32,7 +32,7 @@ layout: home
 
 **[Nov. 2020]** Our work has been featured in <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">Computer Vision News</a> by RSIP Vision.
 
-**[Oct. 2020]** Received the prestigious <a href="http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/>"Young Scientist Award"</a> from <a href="http://www.miccai.org>MICCAI Society</a>.
+**[Oct. 2020]** Received the prestigious <a href="http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/">"Young Scientist Award"</a> from <a href="http://www.miccai.org">MICCAI Society</a>.
 
 **[Oct. 2020]** Presented our paper Ultra2Speech on Deep Learning-based speech synthesis from Ultrasound video-based tongue movements at MICCAI 2020.
 
@@ -40,7 +40,7 @@ layout: home
 
 **[July 2020]** My first-author paper accepted in INTERSPEECH 2020.
 
-**[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks"> UBC Online Flash Talks</a>.
+**[June 2020]** Gave an Invited Talk on "Making hands talk" at <a href="https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks">UBC Online Flash Talks</a>.
 
 **[May 2020]** My first-author paper early-accepted in MICCAI 2020.
 

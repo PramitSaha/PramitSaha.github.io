@@ -48,9 +48,8 @@ layout: home
 **[Jan. 2020]** Our work on generating speech from hand movements and brain signals <a href="https://www.youtube.com/watch?v=R5idxOkZiCkUBC">featured by UBC</a>
 
 **[Jan. 2020]** Co-authored a <a href="https://link.springer.com/chapter/10.1007/978-3-030-15923-8_11">book chapter</a> in <a href="https://link.springer.com/book/10.1007/978-3-030-15923-8">Computational Biomechanics for Medicine, Springer</a>
-
-
-
+<br>
+<br>
 ## Media/Coverage
 
 •  <a href="https://www.rsipvision.com/ComputerVisionNews-2020November/18/">MICCAI Society Young Scientist Award</a> - Computer Vision News, RSIP Vision
@@ -60,24 +59,17 @@ layout: home
 •  <a href="https:/www.grad.ubc.ca/campus-community/meet-our-students/saha-pramit">UBC Award Recipient Interview</a>
 
 •  <a href="www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project">UBC ECE Graduate Student Achievement</a>
-
-
-
-
 <br>
 <br>
-
-
-
-
-
 ## Invited Talk
 
 
-
+<br>
+<br>
 ## Teaching
 
-
+<br>
+<br>
 ## Services
 
    **Program Committee**
@@ -105,5 +97,6 @@ layout: home
    •  IEEE Access
   
    •  Neural Computing & Applications
-
+<br>
+<br>
 

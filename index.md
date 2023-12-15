@@ -78,7 +78,7 @@ layout: home
 
       •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+                  #  Conference Reviewer
 
       •  IEEE ISBI 2024
   

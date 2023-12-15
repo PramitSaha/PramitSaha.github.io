@@ -12,7 +12,7 @@ layout: home
 
 **[Aug. 2023]** Two papers accepted at MICCAI 2023 main conference and one paper at MLMI workshop.
 
-**[July 2023]** Cofounded AI-based start-up coooool.space on cross-modal information search.
+**[July 2023]** Cofounded AI-based start-up <a href="coooool.space">coooool.space</a> on cross-modal information search.
 
 **[May 2023]** My first-author paper on Semi-Supervised Federated Learning early-accepted in MICCAI 2023.
 

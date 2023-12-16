@@ -81,7 +81,28 @@ SOUNDS OF LANGUAGE</a>
 
 ## Teaching
 
+• **Lead Tutor** at Department of Engineering Science, University of Oxford 
 
+  Subject taught: B15 - Control Systems (2022-23, 2023-24)
+
+• **Lab demonstrator** at Department of Engineering Science, University of Oxford
+
+  Subjects taught: A5 - Electrical Machines Lab (2022, 2023), P5 - Electrical Lab (2022), P5 - Computing Lab (2022, 2023)
+  
+• **Course Instructor** (Engineering, Artificial Intelligence) at Immerse Education, United Kingdom (2022, 2023)
+  
+• **Research Mentor** (Machine Learning) at Lumiere Education (2022, 2023)
+
+• **Research Mentor** (Machine Learning) at Horizon Academic (2022, 2023)
+
+• **Teaching Assistant** (Machine Learning in Computer Vision) at Cambridge Centre for International Research (CCIR),  United Kingdom (2022, 2023)
+
+• **Interview Tutor** and **Application Mentor** at Crimson Education, United Kingdom (2022, 2023)
+
+• **Teaching Assistant** at University of British Columbia (UBC) Vancouver, Canada (2018-2021)
+
+  Subjects taught: APSC160 - Introduction to Computation in Engineering Design (2018, 2019), ELEC 203 - Basic Circuit Analysis (2018, 2019), ELEC 371 - Biomedical Engineering Instrumentation (2019, 2020), BMEG 321 - Biomedical Instrumentation (2020), ELEC 523 - Medical Imaging (2019, 2020), ELEC 341 - Systems and Control (2020), LING 530 - Deep Learning for Natural Language Processing (2020)
+  
 <br>
 <br>
 

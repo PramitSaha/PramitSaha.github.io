@@ -2,7 +2,7 @@
 layout: post
 title:  "Rethinking Semi-Supervised Federated Learning: How to co-train fully-labeled and fully-unlabeled client imaging data"
 place: MICCAI 2023
-authors: Ziyun Liang, Harry Anthony, Felix Wagner & Konstantinos Kamnitsas
+authors: Pramit Saha, Divyanshu Mishra, J. Alison Noble
 date:   2023-08-01 11:00:00 +0200
 image: /images/masked_modality_cycle.png
 categories: federated-learning

@@ -30,7 +30,7 @@ year: 2023
     <div class="content" style="flex: 1;">
         <h2>Abstract</h2>
         <p>
-Unsupervised anomaly segmentation aims to detect patterns that are distinct from any patterns processed during training, commonly called abnormal or out-of-distribution patterns, without providing any associated manual segmentations. Since anomalies during deployment can lead to model failure, detecting the anomaly can enhance the reliability of models, which is valuable in high-risk domains like medical imaging. This paper introduces Masked Modality Cycles with Conditional Diffusion (MMCCD), a method that enables segmentation of anomalies across diverse patterns in multimodal MRI.</p>
+</p>
     </div>
 </div>
 

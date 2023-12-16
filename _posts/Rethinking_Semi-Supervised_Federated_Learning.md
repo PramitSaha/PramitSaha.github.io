@@ -25,7 +25,7 @@ year: 2023
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/masked_modality_cycle.png" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/model_isofed_2.png" alt="Image" style="max-width:100%; height:auto;">
     </div>
     <div class="content" style="flex: 1;">
         <h2>Abstract</h2>

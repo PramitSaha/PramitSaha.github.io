@@ -5,7 +5,7 @@ place: MICCAI 2023
 authors: Ziyun Liang, Harry Anthony, Felix Wagner & Konstantinos Kamnitsas
 date:   2023-08-01 11:00:00 +0200
 image: /images/masked_modality_cycle.png
-categories: out-of-distribution-detection
+categories: federated-learning
 paper: https://arxiv.org/abs/2310.18815
 arxiv:
 code: https://github.com/ZiyunLiang/MMCCD

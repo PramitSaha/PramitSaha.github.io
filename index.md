@@ -87,7 +87,7 @@ SOUNDS OF LANGUAGE</a>
 
 • **Lab demonstrator** at <a href="https://eng.ox.ac.uk/">Department of Engineering Science</a>, University of Oxford
 
-  Subjects taught: A5 - Electrical Machines Lab (2022, 2023), P5 - Electrical Lab (2022), P5 - Computing Lab (2022, 2023)
+  Subjects taught: Electrical Machines Lab (2022, 2023), Electrical Lab (2022), Computing Lab (2022, 2023)
   
 • **Course Instructor** (Engineering, Artificial Intelligence) at <a href="https://www.immerse.education/">Immerse Education</a>, United Kingdom (2022, 2023)
   

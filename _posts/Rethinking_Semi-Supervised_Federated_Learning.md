@@ -6,10 +6,10 @@ authors: Ziyun Liang, Harry Anthony, Felix Wagner & Konstantinos Kamnitsas
 date:   2023-08-01 11:00:00 +0200
 image: /images/masked_modality_cycle.png
 categories: out-of-distribution-detection
-paper: https://arxiv.org/abs/2308.16150
+paper: https://arxiv.org/abs/2310.18815
 arxiv:
 code: https://github.com/ZiyunLiang/MMCCD
-poster: /docs/MICCAI_Conference_poster_Ziyun_Liang_2023.jpg
+poster: 
 comments:
 year: 2023 
 ---

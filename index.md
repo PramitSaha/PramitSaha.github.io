@@ -101,7 +101,7 @@ SOUNDS OF LANGUAGE</a>
 
 • **Teaching Assistant** at University of British Columbia (UBC) Vancouver, Canada (2018-2021)
 
-  Subjects taught: APSC160 - Introduction to Computation in Engineering Design (2018, 2019), ELEC 203 - Basic Circuit Analysis (2018, 2019), ELEC 371 - Biomedical Engineering Instrumentation (2019, 2020), BMEG 321 - Biomedical Instrumentation (2020), ELEC 523 - Medical Imaging (2019, 2020), ELEC 341 - Systems and Control (2020), LING 530 - Deep Learning for Natural Language Processing (2020)
+  Subjects taught: APSC160 - Introduction to Computation in Engineering Design (2018, 2019), ELEC 203 - Basic Circuit Analysis (2018, 2019), ELEC 371 - Biomedical Engineering Instrumentation (2019, 2020), BMEG 321 - Biomedical Instrumentation (2020), ELEC 523 - Medical Imaging (2019, 2020), ELEC 341 - Systems and Control (2020).
   
 <br>
 <br>

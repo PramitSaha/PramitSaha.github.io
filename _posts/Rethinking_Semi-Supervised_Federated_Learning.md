@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title:  "Rethinking Semi-Supervised Federated Learning: How to co-train fully-labeled and fully-unlabeled client imaging data"
-place: MICCAI 2023
-authors: Pramit Saha, Divyanshu Mishra, J. Alison Noble
+title:  "Modality cycles with masked conditional diffusion for unsupervised anomaly segmentation in MRI"
+place: MMMI at MICCAI 2023
+authors: Ziyun Liang, Harry Anthony, Felix Wagner & Konstantinos Kamnitsas
 date:   2023-08-01 11:00:00 +0200
 image: /images/masked_modality_cycle.png
 categories: out-of-distribution-detection

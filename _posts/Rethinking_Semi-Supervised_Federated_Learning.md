@@ -35,7 +35,21 @@ year: 2023
 </div>
 
 
-The method is based on two fundamental ideas. First, we propose the use of cyclic modality translation as a mechanism for enabling abnormality detection. Image-translation models learn tissue-specific modality mappings, which are characteristic of tissue physiology. Thus, these learned mappings fail to translate tissues or image patterns that have never been encountered during training, and the error enables their segmentation. Furthermore, we combine image translation with a masked conditional diffusion model, which attempts to `imagine' what tissue exists under a masked area, further exposing unknown patterns as the generative model fails to recreate them. We evaluate our method on a proxy task by training on healthy-looking slices of BraTS2021 multi-modality MRIs and testing on slices with tumors. We show that our method compares favorably to previous unsupervised approaches based on image reconstruction and denoising with autoencoders and diffusion models.
+The most challenging, yet practical, setting of semi-supervised
+federated learning (SSFL) is where a few clients have fully labeled data
+whereas the other clients have fully unlabeled data. This is particularly
+common in healthcare settings where collaborating partners (typically
+hospitals) may have images but not annotations. The bottleneck in this
+setting is the joint training of labeled and unlabeled clients as the objective function for each client varies based on the availability of labels.
+This paper investigates an alternative way for effective training with labeled and unlabeled clients in a federated setting. We propose a novel
+learning scheme specifically designed for SSFL which we call Isolated
+Federated Learning (IsoFed) that circumvents the problem by avoiding simple averaging of supervised and semi-supervised models together.
+In particular, our training approach consists of two parts - (a) isolated
+aggregation of labeled and unlabeled client models, and (b) local selfsupervised pretraining of isolated global models in all clients. We evaluate our model performance on medical image datasets of four different
+modalities publicly available within the biomedical image classification
+benchmark MedMNIST. We further vary the proportion of labeled clients
+and the degree of heterogeneity to demonstrate the effectiveness of the
+proposed method under varied experimental settings
 
 Dive into our research!
 

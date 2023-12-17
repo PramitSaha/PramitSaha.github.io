@@ -53,4 +53,4 @@ proposed method under varied experimental settings
 
 Dive into our research!
 
-<a href="https://arxiv.org/abs/2308.16150">&#x1F4C4; Paper</a> | <a href="/docs/MICCAI_Conference_poster_Ziyun_Liang_2023.jpg">&#x1F4CA; Poster</a> | <a href="https://github.com/ZiyunLiang/MMCCD">`</>` Code</a>
+<a href="https://arxiv.org/abs/2310.18815">&#x1F4C4; Paper</a> 

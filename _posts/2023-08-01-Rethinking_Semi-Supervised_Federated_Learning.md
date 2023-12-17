@@ -4,7 +4,7 @@ title:  "Rethinking Semi-Supervised Federated Learning: How to co-train fully-la
 place: MICCAI 2023
 authors: Pramit Saha, Divyanshu Mishra, J. Alison Noble
 date:   2023-08-01 11:00:00 +0200
-image: /images/masked_modality_cycle.png
+image: /images/model_isofed_2.png
 categories: federated-learning
 paper: https://arxiv.org/abs/2310.18815
 arxiv:

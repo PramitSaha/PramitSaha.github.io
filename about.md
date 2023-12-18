@@ -7,7 +7,7 @@ permalink: /about/
 <h1>About me</h1>
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/Harry_MICCAI.png" alt="" style="width: 400px; height: 350px;" />
+    <img src="/images/pramit1.jpg" alt="" style="width: 400px; height: 350px;" />
 </div>
 
 Hello, thanks for visiting my webpage. If you want to know a bit more about me and my research interests and experience, this is the right page for you.

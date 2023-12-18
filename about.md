@@ -25,6 +25,10 @@ I am a part of the [Oxford Biomedical Image Analysis (BioMedIA) cluster](https:/
 <br>
 I am very passionate about teaching. I have taught (and am teaching) many undergraduate courses in the department. I am one of the Lead Tutors of the third year undergraduate courses offered by the department. Besides, I spend my weekends as a research mentor for undergraduate and pre-college students, guiding them to get started with and gain deeper understanding of machine learning topics. Some of the very fundamental machine learning works with my students can be found here and here. 
 
+## Entrepreneurship
+<br>
+I cofounded [coooool.space](https://coooool.space/) with my Master's colleague at UBC, Min Li, on Cross-modal information search and management in the AI era. We focus on retrieving cross-modal information from different modalities, particularly audio and video, given audio and text query prompts. Please get in touch if you want to talk more about our coooool work. 
+
 ## Masters
 <br>
 Prior to my DPhil, I received my Masters (MASc) in Electrical and Computer Engineering from the [University of British Columbia (UBC)](https://www.ubc.ca/), Vancouver, Canada. I was a MITACS Globalink Graduate Fellow in the [Human Communication Technologies Laboratory (HCT Lab)](https://hct-lab.github.io/), supervised by Prof. Sidney Fels, where I worked on integrating Human-Computer Interaction (HCI) and Deep Learning (DL) for around 3.5 years. 

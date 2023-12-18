@@ -36,17 +36,17 @@ Prior to my DPhil, I received my Masters (MASc) in Electrical and Computer Engin
 My Masters research particularly centered around understanding speech and neuromotor control pathway for speech production using deep learning. In the first phase of my MASc, I worked towards decoding imagined speech tokens from EEG signals and published three papers (in INTERSPEECH, ICASSP, and AAAI). 
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/mixednet.jpg" alt="" style="width: 500px; height: 350px;" />
+    <img src="/images/mixednet.jpg" alt="" style="width: 600px; height: 350px;" />
 </div>
 
 Next, I moved on towards understanding speech from tongue and vocal tract movements in medical videos including Ultrasound and MRI and published two papers (in INTERSPEECH and MICCAI). My research on the development of Ultrasound-based silent speech interfaces to generate synthetic speech for individuals who had their larynx removed, was highly appreciated. Consequently, I was awarded the prestigious Young Scientist Award by MICCAI Society in 2020. I also explored different ways of controlling a Vocal Tract Model by developing various interesting physical and virtual interfaces. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/network.PNG" alt="" style="width: 500px; height: 350px;" />
+    <img src="/images/network.PNG" alt="" style="width: 600px; height: 350px;" />
 </div>
 Real-time MRI video-based automatic speech identification
 <div style="display: flex; justify-content: center;">
-    <img src="/images/U2S_.jpg" alt="" style="width: 500px; height: 350px;" />
+    <img src="/images/U2S_.jpg" alt="" style="width: 600px; height: 350px;" />
 </div>
 Ultra2Formant Net generates speech formant frequency from ultrasound videos
 

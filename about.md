@@ -6,6 +6,10 @@ permalink: /about/
 
 <h1>About me</h1>
 
+<div style="display: flex; justify-content: center;">
+    <img src="/images/Harry_MICCAI.png" alt="" style="width: 400px; height: 350px;" />
+</div>
+
 Hello, thanks for visiting my webpage. If you want to know a bit more about me and my research interests and experience, this is the right page for you.
 
 My name is Pramit and I am currently a DPhil (PhD) student in the Department of Engineering Science at [University of Oxford](https://eng.ox.ac.uk/). I am fortunate to be supervised by [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble). I am working at the intersection of medical image analysis/computer vision, and deep learning with a special focus on solving challenges in Federated Learning, Semi-supervised and Self-supervised Learning, Multimodal Learning, Domain adaptation, and Class-imbalanced Learning. My DPhil is funded by the [VisualAI project](https://www.robots.ox.ac.uk/~vgg/projects/visualai/). [Here](https://eng.ox.ac.uk/people/pramit-saha/) is my university profile. 
@@ -33,9 +37,7 @@ In my senior year, I worked as a research intern in the Tomography Lab, Departme
 
 
 
-<div style="display: flex; justify-content: center;">
-    <img src="/images/Harry_MICCAI.png" alt="" style="width: 400px; height: 350px;" />
-</div>
+
 
 
 

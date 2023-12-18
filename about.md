@@ -46,6 +46,9 @@ Next, I moved on towards understanding speech from tongue and vocal tract moveme
 </div>
 Real-time MRI video-based automatic speech identification
 <div style="display: flex; justify-content: center;">
+    <img src="/images/overview_miccai.png" alt="" style="width: 600px; height: 350px;" />
+</div>
+<div style="display: flex; justify-content: center;">
     <img src="/images/U2S_.jpg" alt="" style="width: 600px; height: 350px;" />
 </div>
 Ultra2Formant Net generates speech formant frequency from ultrasound videos

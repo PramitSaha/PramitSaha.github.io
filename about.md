@@ -10,8 +10,7 @@ permalink: /about/
 
 Hello, thanks for visiting my webpage.
 
-My name is Pramit and I am currently a DPhil (PhD) student in the Department of Engineering Science at [University of Oxford](https://eng.ox.ac.uk/). I am fortunate to be supervised by [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble). 
-
+My name is Pramit and I am currently a DPhil (PhD) student in the Department of Engineering Science at [University of Oxford](https://eng.ox.ac.uk/). I am fortunate to be supervised by [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble). I am working at the intersection of **medical image analysis/computer vision**, and **deep learning** -- with a special focus on solving challenges in Federated Learning, Semi-supervised and Self-supervised Learning, Multimodal Learning, Domain adaptation, and Class-imbalanced Learning. My DPhil is funded by the [VisualAI project](https://www.robots.ox.ac.uk/~vgg/projects/visualai/). 
 
 I received my Masters (MASc) in Electrical and Computer Engineering from the University of British Columbia (UBC), Vancouver, Canada, where I was a graduate research assistant in the Human Communication Technologies Laboratory (HCT Lab), supervised by Prof. Sidney Fels. I was awarded the prestigious Young Scientist Award by MICCAI Society for my work on deep learning-based silent speech interfaces.
 

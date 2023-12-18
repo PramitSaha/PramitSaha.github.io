@@ -7,7 +7,7 @@ layout: home
 ---
 ## Updates
 
-**[Dec. 2023]** Two ML works by my students ([1](https://arxiv.org/pdf/2312.05717.pdf) and [2](https://arxiv.org/pdf/2312.07571.pdf)) submitted to [Energy Reports, Elsevier](https://www.sciencedirect.com/journal/energy-reports), and [Machine Vision and Applications, Springer](https://link.springer.com/journal/138). 
+**[Dec. 2023]** Arxiv Pre-prints of Two ML works by my students ([1](https://arxiv.org/pdf/2312.05717.pdf) and [2](https://arxiv.org/pdf/2312.07571.pdf)) are available.
 
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on <a href="https://twitter.com/nitrourkela/status/1719255807605498108">"Machine Learning: An Industry Academia Initiative"</a>, organized by NIT Rourkela, India.
 

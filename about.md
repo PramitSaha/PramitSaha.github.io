@@ -39,7 +39,7 @@ I am very passionate about teaching. I have taught (and am teaching) many underg
 
 ## Entrepreneurship
 <br>
-I cofounded [coooool.space](https://coooool.space/) with my Master's colleague at UBC, Min Li, on Cross-modal information search and management in the AI era. We focus on retrieving cross-modal information from different modalities, particularly audio and video, given audio and text query prompts. Please get in touch if you want to talk more about our coooool work. 
+I cofounded [coooool.space](https://coooool.space/) on Cross-modal information search and management in the AI era. We focus on retrieving cross-modal information from different modalities, particularly audio and video, given audio and text query prompts. Please get in touch if you want to talk more about our coooool work. 
 
 ## Masters
 <br>

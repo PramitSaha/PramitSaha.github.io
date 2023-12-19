@@ -78,7 +78,7 @@ Before joining the HCT Lab, I was a [MITACS Globalink Research Intern](https://w
 I obtained my Bachelor of Engineering (B.E) degree in Electrical Engineering from Jadavpur University, Kolkata, India, on Dec, 2016. My final year project was on stereo image matching and depth map generation, supervised by Prof. Amitava Chatterjee. I published a preliminary paper on this at IEEE INDICON 2016. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/3d.jpg" alt="" style="width: 400px; height: 30px;" />
+    <img src="/images/3d.PNG" alt="" style="width: 400px; height: 30px;" />
 </div>
 
 Besides, during my undergraduate degree, I also worked on image reconstruction, noise estimation, and several engineering design projects. My undergraduate research bagged me best paper awards at IEEE CALCON 2014, IEEE INDICON 2015, and Best White Paper Award 2014 awarded by Schneider Electric Pvt. Ltd.  

@@ -62,7 +62,7 @@ In order to find a joint latent representation between the articulatory and acou
 The main focus of my Master's thesis was reducing human motor control effort using deep learning while leveraging categorical perceptual constraints. I introduced a perceptual mapping from speech-like complex multiple degree-of-freedom (DOF) movement of the hand to a controllable formant space, that could leverage categorical perceptual constraints for reducing the difficulty level of hand motor control tasks. The perceptual network was modeled using long short term memory networks (LSTMs) aimed at optimizing a connectionist temporal classification (CTC) loss function. Our motor control mapping network consisted of a graph convolutional neural network (GCNN) combined with LSTM encoder-decoder network, that was regularized with the help of the trained perception model. The mapping allowed the user's hand to generate continuous kinematic trajectories at a reduced effort by altering the complexity of the task space. This was essentially a human-in-the-loop system where the user played the role of an expert assessor in evaluating the degree to which the network is capable of reducing the complexity of task space. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/model_1.png" alt="" style="width: 600px; height: 350px;" />
+    <img src="/images/model_1.png" alt="" style="width: 900px; height: 350px;" />
 </div>
 
 I also explored different ways of controlling a Vocal Tract Model by developing various interesting physical and virtual interfaces.

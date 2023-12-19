@@ -89,7 +89,7 @@ During my junior year, I interned on the 3D Medical Image Processing, in the Ele
     <img src="/images/iit.PNG" alt="" style="width: 900px; height: 300px;" />
 </div>
 
-In my senior year, I worked as a research intern in the Tomography Lab, Department of Electrical Engineering, at the Indian Institute of Science (IISc Bangalore) under Prof. Kasi Rajgopal.
+In my senior year, I worked as a research intern in the Tomography Lab, Department of Electrical Engineering, at the Indian Institute of Science (IISc Bangalore) under Prof. Kasi Rajgopal. I worked towards developing a novel algorithm utilizing bee's swarm intelligence, and its heuristics based on quality and quantity of food sources (nectars) to generate a variable density sampling (VDS) scheme for compressive sampling (CS)-based fast MRI data acquisition. The MRI Reconstruction paper was published in IEEE TENCON 2016.
 
 <div style="display: flex; justify-content: center;">
     <img src="/images/recon.PNG" alt="" style="width: 300px; height: 300px;" />

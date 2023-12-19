@@ -1,4 +1,4 @@
-![image](https://github.com/PramitSaha/PramitSaha.github.io/assets/44073767/8d415235-b605-46dd-b215-e060399d8822)---
+---
 layout: page
 title: About
 permalink: /about/

@@ -39,7 +39,7 @@ My Masters research particularly centered around understanding speech and neurom
     <img src="/images/mixednet.jpg" alt="" style="width: 600px; height: 350px;" />
 </div>
 
-Next, I moved on towards understanding speech from tongue and vocal tract movements in medical videos including Ultrasound and MRI and published two papers (in INTERSPEECH and MICCAI). My research on the development of Ultrasound-based silent speech interfaces to generate synthetic speech for individuals who had their larynx removed, was highly appreciated. Consequently, I was awarded the prestigious Young Scientist Award by MICCAI Society in 2020. I also explored different ways of controlling a Vocal Tract Model by developing various interesting physical and virtual interfaces. 
+Next, I moved on towards understanding speech from tongue and vocal tract movements in medical videos including Ultrasound and MRI and published two papers (in INTERSPEECH and MICCAI). My research on the development of Ultrasound-based silent speech interfaces to generate synthetic speech for individuals who had their larynx removed, was highly appreciated. Consequently, I was awarded the prestigious Young Scientist Award by MICCAI Society in 2020. 
 
 <div style="display: flex; justify-content: center;">
     <img src="/images/network.PNG" alt="" style="width: 600px; height: 350px;" />
@@ -57,6 +57,12 @@ The main focus of my Master's thesis was reducing human motor control effort usi
 
 <div style="display: flex; justify-content: center;">
     <img src="/images/model_1.png" alt="" style="width: 900px; height: 350px;" />
+</div>
+
+I also explored different ways of controlling a Vocal Tract Model by developing various interesting physical and virtual interfaces.
+
+<div style="display: flex; justify-content: center;">
+    <img src="/images/download.png" alt="" style="width: 600px; height: 350px;" />
 </div>
 
 During my masters, I also worked in close collaboration with [Prof. Bryan Gick](https://en.wikipedia.org/wiki/Bryan_Gick), FRSC, the director of [UBC Interdisciplinary Speech Research Lab (ISRL)](https://blogs.ubc.ca/isrl/) and the-then head of [Department of Linguistics, UBC](https://linguistics.ubc.ca/), as well as [Prof. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/), the Canada Research Chair in Natural Language Processing and director of [UBC Deep Learning and Natural Language Processing (DL-NLP) Lab](https://www.dlnlp.ai/). Besides being a graduate research assistant, I also acted as the Treasurer and Executive Committee Member of the [ECE Graduate Student Association (ECEGSA)](https://gsa.ece.ubc.ca/) for three consecutive terms (2018-2019, 2019-2020, 2020-2021).

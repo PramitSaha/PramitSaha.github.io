@@ -83,7 +83,7 @@ I obtained my Bachelor of Engineering (B.E) degree in Electrical Engineering fro
 
 Besides, during my undergraduate degree, I also worked on image reconstruction, noise estimation, and several engineering design projects. My undergraduate research bagged me **best paper awards** at IEEE CALCON 2014, IEEE INDICON 2015, and **Best White Paper Award 2014** awarded by Schneider Electric Pvt. Ltd.  
 
-During my junior year, I interned on the 3D Medical Image Processing, in the Electronics and Electrical Communication Engineering Department at the Indian Institute of Technology (IIT Kgp), jointly supervised by Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara. I worked on 
+During my junior year, I interned on the 3D Medical Image Processing, in the Electronics and Electrical Communication Engineering Department at the Indian Institute of Technology (IIT Kgp), jointly supervised by Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara. I worked towards developing Differential geometry-based techniques for quantitative characterization of boundary roughness of pulmonary nodules in lung CT images and co-authored a journal paper in IJCARS, Springer. 
 
 <div style="display: flex; justify-content: center;">
     <img src="/images/iit.PNG" alt="" style="width: 900px; height: 300px;" />
@@ -95,7 +95,7 @@ In my senior year, I worked as a research intern in the Tomography Lab, Departme
     <img src="/images/recon.PNG" alt="" style="width: 300px; height: 300px;" />
 </div>
 
-## Undergraduate Study
+## High School
 <br>
 I was awarded the **Ministry of Human Resource Development Scholarship** (2012 - 2016) for securing 27th rank in Higher Secondary Examination out of 7,00,000 candidates (approx.)
 

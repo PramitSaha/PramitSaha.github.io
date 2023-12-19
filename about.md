@@ -85,7 +85,15 @@ Besides, during my undergraduate degree, I also worked on image reconstruction, 
 
 During my junior year, I interned on the 3D Medical Image Processing, in the Electronics and Electrical Communication Engineering Department at the Indian Institute of Technology (IIT Kgp), jointly supervised by Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara. I worked on 
 
+<div style="display: flex; justify-content: center;">
+    <img src="/images/iit.PNG" alt="" style="width: 600px; height: 300px;" />
+</div>
+
 In my senior year, I worked as a research intern in the Tomography Lab, Department of Electrical Engineering, at the Indian Institute of Science (IISc Bangalore) under Prof. Kasi Rajgopal.
+
+<div style="display: flex; justify-content: center;">
+    <img src="/images/recon.PNG" alt="" style="width: 600px; height: 300px;" />
+</div>
 
 ## Undergraduate Study
 <br>

@@ -89,7 +89,7 @@ In my senior year, I worked as a research intern in the Tomography Lab, Departme
 
 ## Undergraduate Study
 <br>
-I was awarded the **Ministry of Human Resource Development Scholarshi**p (2012 - 2016) for securing 27th rank in Higher Secondary Examination out of 7,00,000 candidates (approx.)
+I was awarded the **Ministry of Human Resource Development Scholarship** (2012 - 2016) for securing 27th rank in Higher Secondary Examination out of 7,00,000 candidates (approx.)
 
 
 

@@ -23,7 +23,7 @@ I am a part of the [Oxford Biomedical Image Analysis (BioMedIA) cluster](https:/
 
 ## Teaching
 <br>
-I am very passionate about teaching. I have taught (and am teaching) many undergraduate courses in the department. I am one of the Lead Tutors of the third year undergraduate courses offered by the department. Besides, I spend my weekends as a research mentor for undergraduate and pre-college students, guiding them to get started with and gain deeper understanding of machine learning topics. Some of the very fundamental machine learning works with my students can be found here and here. 
+I am very passionate about teaching. I have taught (and am teaching) many undergraduate courses in the Department of Engineering Science. I am one of the Lead Tutors of the third year undergraduate courses offered by the department. Besides, I spend my weekends as a research mentor for undergraduate and pre-college students, guiding them to get started with and gain deeper understanding of machine learning topics. Some of the very fundamental machine learning works with my students can be found here and here. 
 
 ## Entrepreneurship
 <br>

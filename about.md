@@ -39,7 +39,7 @@ My Masters research particularly centered around understanding speech and neurom
     <img src="/images/mixednet.jpg" alt="" style="width: 600px; height: 350px;" />
 </div>
 
-Next, I moved on towards understanding speech from tongue and vocal tract movements in medical videos including Ultrasound and MRI and published two papers (in INTERSPEECH and MICCAI). My research on the development of Ultrasound-based silent speech interfaces to generate synthetic speech for individuals who had their larynx removed, was highly appreciated. Consequently, I was awarded the prestigious Young Scientist Award by MICCAI Society in 2020. 
+Next, I moved on towards understanding speech from tongue and vocal tract movements in medical videos including Ultrasound and MRI and published two papers (in INTERSPEECH and MICCAI). My research on the development of Ultrasound-based silent speech interfaces to generate synthetic speech for individuals who had their larynx removed, was highly appreciated. Consequently, I was awarded the prestigious **Young Scientist Award** by MICCAI Society in 2020. 
 
 <div style="display: flex; justify-content: center;">
     <img src="/images/network.PNG" alt="" style="width: 600px; height: 350px;" />
@@ -67,7 +67,7 @@ I also explored different ways of controlling a Vocal Tract Model by developing 
 
 During my masters, I also worked in close collaboration with [Prof. Bryan Gick](https://en.wikipedia.org/wiki/Bryan_Gick), FRSC, the director of [UBC Interdisciplinary Speech Research Lab (ISRL)](https://blogs.ubc.ca/isrl/) and the-then head of [Department of Linguistics, UBC](https://linguistics.ubc.ca/), as well as [Prof. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/), the Canada Research Chair in Natural Language Processing and director of [UBC Deep Learning and Natural Language Processing (DL-NLP) Lab](https://www.dlnlp.ai/). Besides being a graduate research assistant, I also acted as the Treasurer and Executive Committee Member of the [ECE Graduate Student Association (ECEGSA)](https://gsa.ece.ubc.ca/) for three consecutive terms (2018-2019, 2019-2020, 2020-2021).
 
-I received the UBC Faculty of Applied Science Graduate Award (2018-2019) for outstanding academic and research achievements from the Department of Electrical and Computer Engineering (ECE) of University of British Columbia.
+I received the **UBC Faculty of Applied Science Graduate Award** (2018-2019) for outstanding academic and research achievements from the Department of Electrical and Computer Engineering (ECE) of University of British Columbia.
 
 ## MITACS Globalink Research Internship
 <br>
@@ -81,7 +81,7 @@ I obtained my Bachelor of Engineering (B.E) degree in Electrical Engineering fro
     <img src="/images/3d.PNG" alt="" style="width: 600px; height: 300px;" />
 </div>
 
-Besides, during my undergraduate degree, I also worked on image reconstruction, noise estimation, and several engineering design projects. My undergraduate research bagged me best paper awards at IEEE CALCON 2014, IEEE INDICON 2015, and Best White Paper Award 2014 awarded by Schneider Electric Pvt. Ltd.  
+Besides, during my undergraduate degree, I also worked on image reconstruction, noise estimation, and several engineering design projects. My undergraduate research bagged me **best paper awards** at IEEE CALCON 2014, IEEE INDICON 2015, and **Best White Paper Award 2014** awarded by Schneider Electric Pvt. Ltd.  
 
 During my junior year, I interned on the 3D Medical Image Processing, in the Electronics and Electrical Communication Engineering Department at the Indian Institute of Technology (IIT Kgp), jointly supervised by Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara. I worked on 
 
@@ -89,7 +89,7 @@ In my senior year, I worked as a research intern in the Tomography Lab, Departme
 
 ## Undergraduate Study
 <br>
-I was awarded the Ministry of Human Resource Development Scholarship (2012 - 2016) for securing 27th rank in Higher Secondary Examination out of 7,00,000 candidates (approx.)
+I was awarded the **Ministry of Human Resource Development Scholarshi**p (2012 - 2016) for securing 27th rank in Higher Secondary Examination out of 7,00,000 candidates (approx.)
 
 
 

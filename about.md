@@ -68,7 +68,7 @@ The main focus of my Master's thesis was reducing human motor control effort usi
 I also explored different ways of controlling a Vocal Tract Model by developing various interesting physical and virtual interfaces.
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/download.png" alt="" style="width: 600px; height: 350px;" />
+    <img src="/images/download.png" alt="" style="width: 600px; height: 450px;" />
 </div>
 
 During my masters, I also worked in close collaboration with [Prof. Bryan Gick](https://en.wikipedia.org/wiki/Bryan_Gick), FRSC, the director of [UBC Interdisciplinary Speech Research Lab (ISRL)](https://blogs.ubc.ca/isrl/) and the-then head of [Department of Linguistics, UBC](https://linguistics.ubc.ca/), as well as [Prof. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/), the Canada Research Chair in Natural Language Processing and director of [UBC Deep Learning and Natural Language Processing (DL-NLP) Lab](https://www.dlnlp.ai/). Besides being a graduate research assistant, I also acted as the Treasurer and Executive Committee Member of the [ECE Graduate Student Association (ECEGSA)](https://gsa.ece.ubc.ca/) for three consecutive terms (2018-2019, 2019-2020, 2020-2021).

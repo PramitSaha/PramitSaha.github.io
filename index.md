@@ -99,7 +99,7 @@ SOUNDS OF LANGUAGE</a>
 
 • **Teaching Assistant** (Machine Learning in Computer Vision) at <a href="https://cambridge-research.org/">Cambridge Centre for International Research (CCIR)</a>,  United Kingdom (2022, 2023)
 
-• **Interview Tutor** and **Application Mentor** at <a href="https://www.crimsoneducation.org/uk/">Crimson Education</a>, United Kingdom (2022, 2023)
+• **Interview Tutor** (Computer Science, Engineering) and **Application Mentor** at <a href="https://www.crimsoneducation.org/uk/">Crimson Education</a>, United Kingdom (2022, 2023)
 
 • **Teaching Assistant** at <a href="https://ece.ubc.ca/">Department of Electrical and Computer Engineering</a>, University of British Columbia (UBC) Vancouver, Canada (2018-2021)
 

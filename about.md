@@ -10,7 +10,7 @@ Hello, thanks for visiting my webpage. If you want to know a bit more about me a
 <br>
 <br>
 <div style="display: flex; justify-content: center;">
-    <img src="/images/pramit1.jpg" alt="" style="width: 400px; height: 350px;" />
+    <img src="/images/pramit1.jpg" alt="" style="width: 1400px; height: 350px;" />
 </div>
 <br>
 <br>

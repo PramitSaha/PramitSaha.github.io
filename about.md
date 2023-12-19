@@ -22,7 +22,7 @@ My name is Pramit and I am currently a DPhil (PhD) student in the Department of 
 I am a part of the [Oxford Biomedical Image Analysis (BioMedIA) cluster](https://eng.ox.ac.uk/biomedical-image-analysis/) and I also work closely in collaboration with [Prof. Konstantinos Kamnitsas](https://ibme.ox.ac.uk/person/konstantinos-kamnitsas/). I am also acting as the Biomed Student Representative of the Graduate Joint Consultative Committee (GJCC) that provides a forum for discussion and negotiation between the students and staff concerning a range of matters that arise throughout the year. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="/images/my_post.webp" alt="" style="width: 400px; height: 350px;" />
+    <img src="/images/media.jpg" alt="" style="width: 400px; height: 350px;" />
 </div>
 
 ## Teaching

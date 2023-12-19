@@ -113,7 +113,7 @@ In my senior year, I worked as a research intern in the Tomography Lab, Departme
     <img src="/images/recon.PNG" alt="" style="width: 300px; height: 300px;" />
 </div>
 
-During my Undegraduate days, I also acted as the Class Representative (CR) as well as the Member of Anti-Ragging Committee, Electrical Engineering Department, Jadavpur University (2012-2016). 
+During my Undergraduate days, I also acted as the Class Representative (CR) as well as the Member of Anti-Ragging Committee, Electrical Engineering Department, Jadavpur University (2012-2016). 
 
 ## High School
 <br>

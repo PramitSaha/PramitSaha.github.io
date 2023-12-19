@@ -15,7 +15,7 @@ year: 2023
 ---
 
 <style>
-@media (max-width: 500px) {
+@media (max-width: 1000px) {
     .container {
         flex-direction: column;
         align-items: left;

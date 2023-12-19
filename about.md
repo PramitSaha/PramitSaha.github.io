@@ -25,7 +25,7 @@ I am a part of the [Oxford Biomedical Image Analysis (BioMedIA) cluster](https:/
     <img src="/images/media.jpg" alt="" style="width: 1400px; height: 350px;" />
 </div>
 <br>
-My recent work on Semi-supservised Federated Learning has been published in MICCAI 2023 and recognized as one of the top 20 Highlights. 
+My recent work [IsoFed](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_39) on Semi-supservised Federated Learning (shown below) has been published in MICCAI 2023 and recognized as one of the top 20 Highlights. 
 <br>
 <div style="display: flex; justify-content: center;">
     <img src="/images/model_isofed_2.png" alt="" style="width: 1400px; height: 350px;" />

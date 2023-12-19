@@ -53,6 +53,8 @@ Real-time MRI video-based automatic speech identification
 </div>
 Ultra2Formant Net generates speech formant frequency from ultrasound videos
 
+In order to find a joint latent representation between the articulatory and acoustic domain for vowel sounds, I introduced invertible neural network models, while simultaneously preserving the respective domain-specific features. The architecture of the proposed model is shown below.
+
 <div style="display: flex; justify-content: center;">
     <img src="/images/Mapping2.jpg" alt="" style="width: 900px; height: 300px;" />
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SPEAK YOUR MIND! Towards Imagined Speech Recognition With Hierarchical Deep Learning"
-place: INTERSPEECH 2019
+place: INTERSPEECH 2018
 authors: Pramit Saha, Praneeth Srungarapu, Sidney Fels
 date:   2018-01-01 10:00:00 +0200
 image: /images/network.PNG

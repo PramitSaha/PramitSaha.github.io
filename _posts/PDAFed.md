@@ -2,7 +2,7 @@
 layout: post
 title:  "Post-Deployment Adaptation with Access to Source Data via Federated Learning and Source-Target Remote Gradient Alignment"
 place: MICCAI 2023
-authors: Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, J.Alison Noble
+authors: Felix Wagner, Zeju Li, Pramit Saha, and Konstantinos Kamnitsas
 date:   2023-08-02 11:00:00 +0200
 image: /images/StarAlign.jpg
 categories: federated-learning

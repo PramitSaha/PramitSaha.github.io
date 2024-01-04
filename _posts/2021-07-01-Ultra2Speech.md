@@ -6,7 +6,7 @@ authors: Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels
 date:   2021-06-02 10:00:00 +0200
 image: /images/overview_miccai.png
 categories: deep-learning
-paper: https://arxiv.org/pdf/2308.16735.pdf
+paper: https://arxiv.org/pdf/2006.16367.pdf
 arxiv:
 code: 
 poster: 
@@ -49,4 +49,4 @@ representation without any explicit annotation
 
 Dive into our research!
 
-<a href="https://arxiv.org/pdf/2308.16735">&#x1F4C4; Paper</a> 
+<a href="https://arxiv.org/pdf/2006.16367">&#x1F4C4; Paper</a> 

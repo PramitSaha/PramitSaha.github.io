@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Differential geometry-based techniques for characterization
+of boundary roughness of pulmonary nodules in CT images"
+place: IJCARS
+authors: Ashis Kumar Dhara, Sudipta Mukhopadhyay, Pramit Saha, Mandeep Garg, Niranjan Khandelwal
+date:   2019-11-02 10:00:00 +0200
+image: /images/iit.png
+categories: deep-learning
+paper: https://arxiv.org/pdf/1904.05746.pdf
+arxiv:
+code: 
+poster: 
+comments:
+year: 2019
+---
+
+<style>
+@media (max-width: 1000px) {
+    .container {
+        flex-direction: column;
+        align-items: left;
+    }
+</style>
+
+
+<div class="container" style="display: flex; align-items: center;">
+    <div class="image" style="flex: 1; margin-right: 1cm;">
+        <img src="/images/iit.png" alt="Image" style="max-width:100%; height:auto;">
+    </div>
+</div>
+
+**Abstract**
+
+Boundary roughness of a pulmonary nodule is an important indication of its malignancy. The irregularity of the shape of a nodule is represented in terms of a few diagnostic characteristics such as spiculation, lobulation, and sphericity. Quantitative characterization of these diagnostic characteristics is essential for designing a content-based image retrieval system and computer-aided system for diagnosis of lung cancer.
+This paper presents differential geometry-based techniques for computation of spiculation, lobulation, and sphericity using the binary mask of the segmented nodule. These shape features are computed in 3D considering complete nodule.
+The performance of the proposed and competing methods is evaluated in terms of the precision, mean similarity, and normalized discounted cumulative gain on 891 nodules of Lung Image Database Consortium and Image Database Resource Initiative. The proposed methods are comparable to or better than gold standard technique. The reproducibility of proposed feature extraction techniques is evaluated using RIDER coffee break data set. The mean and standard deviation of the percent change of spiculation, lobulation, and sphericity are 
+1.66, 10.57, and 6.27%, respectively. The prior works of computation of spiculation, lobulation, and sphericity require a set of four ground truths from radiologists and, hence, can not be used in practice. The proposed methods do not require ground truth information of nodules from radiologists, and hence, it can be used in real-life computer-aided diagnosis system for lung cancer.
+
+Dive into our research!
+
+<a href="https://arxiv.org/pdf/1904.05746">&#x1F4C4; Paper</a> 

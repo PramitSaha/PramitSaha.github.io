@@ -6,7 +6,7 @@ authors: Felix Wagner, Zeju Li, Pramit Saha, and Konstantinos Kamnitsas
 date:   2023-08-02 10:00:00 +0200
 image: /images/StarAlign.jpg
 categories: federated-learning
-paper:https://arxiv.org/pdf/2308.16735.pdf
+paper: https://arxiv.org/pdf/2308.16735.pdf
 arxiv:
 code: 
 poster: 

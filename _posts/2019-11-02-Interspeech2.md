@@ -3,7 +3,7 @@ layout: post
 title:  "SPEAK YOUR MIND! Towards Imagined Speech Recognition With Hierarchical Deep Learning"
 place: INTERSPEECH 2019
 authors: Pramit Saha, Muhammad Abdul-Mageed, Sidney Fels
-date:   2021-05-02 10:00:00 +0200
+date:   2019-11-02 10:00:00 +0200
 image: /images/mixednet.jpg
 categories: deep-learning
 paper: https://arxiv.org/pdf/1904.05746.pdf

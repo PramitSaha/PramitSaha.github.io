@@ -31,8 +31,7 @@ year: 2019
 
 **Abstract**
 
-Speech-related Brain Computer Interface (BCI) technologies
-provide effective vocal communication strategies for controlling devices through speech commands interpreted from brain
+Speech-related Brain Computer Interface (BCI) technologies provide effective vocal communication strategies for controlling devices through speech commands interpreted from brain
 signals. In order to infer imagined speech from active thoughts,
 we propose a novel hierarchical deep learning BCI system for
 subject-independent classification of 11 speech tokens including phonemes and words. Our novel approach exploits predicted articulatory information of six phonological categories

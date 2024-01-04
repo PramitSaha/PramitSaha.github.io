@@ -5,7 +5,7 @@ place: Master's Thesis
 authors: Pramit Saha
 date:   2021-08-01 11:00:00 +0200
 image: /images/model_isofed_2.png
-categories: federated-learning
+categories: deep-learning
 paper: https://open.library.ubc.ca/media/stream/pdf/24/1.0396540/3
 arxiv:
 code: 

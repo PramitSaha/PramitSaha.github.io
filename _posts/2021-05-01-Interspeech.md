@@ -4,7 +4,7 @@ title:  "Learning Joint Articulatory-Acoustic Representations with Normalizing F
 place: INTERSPEECH 2020
 authors: Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels
 date:   2021-05-02 10:00:00 +0200
-image: /images/overview_miccai.png
+image: /images/Mapping2.jpg
 categories: deep-learning
 paper: https://arxiv.org/pdf/2005.09463.pdf
 arxiv:
@@ -25,7 +25,7 @@ year: 2023
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/overview_miccai.png" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/Mapping2.jpg" alt="Image" style="max-width:100%; height:auto;">
     </div>
 </div>
 

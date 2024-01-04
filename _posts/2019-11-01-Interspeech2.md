@@ -4,7 +4,7 @@ title:  "SPEAK YOUR MIND! Towards Imagined Speech Recognition With Hierarchical 
 place: INTERSPEECH 2019
 authors: Pramit Saha, Muhammad Abdul-Mageed, Sidney Fels
 date:   2021-05-02 10:00:00 +0200
-image: /images/ICASSP1.jpg
+image: /images/mixednet.jpg
 categories: deep-learning
 paper: https://arxiv.org/pdf/1904.05746.pdf
 arxiv:
@@ -25,7 +25,7 @@ year: 2019
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/ICASSP1.jpg" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/mixednet.jpg" alt="Image" style="max-width:100%; height:auto;">
     </div>
 </div>
 

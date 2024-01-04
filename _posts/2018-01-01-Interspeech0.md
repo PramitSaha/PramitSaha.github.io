@@ -4,7 +4,7 @@ title:  "SPEAK YOUR MIND! Towards Imagined Speech Recognition With Hierarchical 
 place: INTERSPEECH 2019
 authors: Pramit Saha, Praneeth Srungarapu, Sidney Fels
 date:   2018-01-01 10:00:00 +0200
-image: /images/mixednet.jpg
+image: /images/network.PNG
 categories: deep-learning
 paper: https://arxiv.org/pdf/1807.11089.pdf
 arxiv:
@@ -25,7 +25,7 @@ year: 2019
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/mixednet.jpg" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/network.PNG" alt="Image" style="max-width:100%; height:auto;">
     </div>
 </div>
 

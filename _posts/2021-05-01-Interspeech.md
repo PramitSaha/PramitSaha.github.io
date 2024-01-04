@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows"
 place: INTERSPEECH 2020
-authors: Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels
+authors: Pramit Saha and Sidney Fels
 date:   2021-05-02 10:00:00 +0200
 image: /images/Mapping2.jpg
 categories: deep-learning

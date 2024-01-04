@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Post-Deployment Adaptation with Access to Source Data via Federated Learning and Source-Target Remote Gradient Alignment"
-place: MICCAI MLMI 2023
-authors: Felix Wagner, Zeju Li, Pramit Saha, and Konstantinos Kamnitsas
+title:  "Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos"
+place: MICCAI 2023
+authors: Divyanshu Mishra, He Zhao, Pramit Saha, Aris T. Papageorghiou, J.Alison Noble
 date:   2023-08-02 11:00:00 +0200
-image: /images/StarAlign.jpg
+image: /images/FLOWCHART_UPD.jpg
 categories: federated-learning
-paper: https://arxiv.org/pdf/2308.16735.pdf
+paper: https://arxiv.org/pdf/2311.00469.pdf
 arxiv:
 code: 
 poster: 
@@ -25,33 +25,29 @@ year: 2023
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/StarAlign.jpg" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/FLOWCHART_UPD.jpg" alt="Image" style="max-width:100%; height:auto;">
     </div>
 </div>
 
 **Abstract**
 
-Deployment of Deep Neural Networks in medical imaging is
-hindered by distribution shift between training data and data processed
-after deployment, causing performance degradation. Post-Deployment
-Adaptation (PDA) addresses this by tailoring a pre-trained, deployed
-model to the target data distribution using limited labelled or entirely
-unlabelled target data, while assuming no access to source training data
-as they cannot be deployed with the model due to privacy concerns
-and their large size. This makes reliable adaptation challenging due
-to limited learning signal. This paper challenges this assumption and
-introduces FedPDA, a novel adaptation framework that brings the
-utility of learning from remote data from Federated Learning into PDA.
-FedPDA enables a deployed model to obtain information from source
-data via remote gradient exchange, while aiming to optimize the model
-specifically for the target domain. Tailored for FedPDA, we introduce a
-novel optimization method StarAlign(Source-Target Remote Gradient Alignment) that aligns gradients between source-target domain pairs by
-maximizing their inner product, to facilitate learning a target-specific
-model. We demonstrate the method’s effectiveness using multi-center
-databases for the tasks of cancer metastases detection and skin lesion
-classification, where our method compares favourably to previous work.
-Code is available at: https://github.com/FelixWag/StarAlign
+Out-of-distribution (OOD) detection is essential to improve
+the reliability of machine learning models by detecting samples that do
+not belong to the training distribution. Detecting OOD samples effectively in certain tasks can pose a challenge because of the substantial
+heterogeneity within the in-distribution (ID), and the high structural
+similarity between ID and OOD classes. For instance, when detecting
+heart views in fetal ultrasound videos there is a high structural similarity
+between the heart and other anatomies such as the abdomen, and large
+in-distribution variance as a heart has 5 distinct views and structural
+variations within each view. To detect OOD samples in this context,
+the resulting model should generalise to the intra-anatomy variations
+while rejecting similar OOD samples. In this paper, we introduce dualconditioned diffusion models (DCDM) where we condition the model on
+in-distribution class information and latent features of the input image
+for reconstruction-based OOD detection. This constrains the generative
+manifold of the model to generate images structurally and semantically
+similar to those within the in-distribution. The proposed model outperforms reference methods with a 12% improvement in accuracy, 22%
+higher precision, and an 8% better F1 score.
 
 Dive into our research!
 
-<a href="https://arxiv.org/pdf/2308.16735">&#x1F4C4; Paper</a> 
+<a href="https://arxiv.org/pdf/2311.00469">&#x1F4C4; Paper</a> 

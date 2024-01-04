@@ -27,11 +27,9 @@ year: 2023
     <div class="image" style="flex: 1; margin-right: 1cm;">
         <img src="/images/model_isofed_2.png" alt="Image" style="max-width:100%; height:auto;">
     </div>
-    
-</p>
-    </div>
 </div>
 
+**Abstract**
 
 The most challenging, yet practical, setting of semi-supervised
 federated learning (SSFL) is where a few clients have fully labeled data

@@ -4,7 +4,7 @@ title:  "Moves made easy: deep learning-based reduction of human motor control e
 place: Master's Thesis
 authors: Pramit Saha
 date:   2021-08-01 11:00:00 +0200
-image: /images/model_isofed_2.png
+image: /images/model_1.png
 categories: deep-learning
 paper: https://open.library.ubc.ca/media/stream/pdf/24/1.0396540/3
 arxiv:
@@ -25,7 +25,7 @@ year: 2023
 
 <div class="container" style="display: flex; align-items: center;">
     <div class="image" style="flex: 1; margin-right: 1cm;">
-        <img src="/images/model_isofed_2.png" alt="Image" style="max-width:100%; height:auto;">
+        <img src="/images/model_1.png" alt="Image" style="max-width:100%; height:auto;">
     </div>
 </div>
 

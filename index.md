@@ -135,6 +135,9 @@ SOUNDS OF LANGUAGE</a>
    •  IEEE Access
   
    •  Neural Computing & Applications
+
+   •  Knowledge-Based Systems (Elsevier)
+   
 <br>
 <br>
 <br>

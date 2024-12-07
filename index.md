@@ -7,6 +7,13 @@ layout: home
 ---
 ## Updates
 
+
+**[Dec. 2024]** Our latest Federated Learning work "F3OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics" is now online. Read it [here](https://arxiv.org/pdf/2411.11912)
+
+**[Nov. 2024]** I presented our work "Optimizing Selective Adapter Insertion for Federated Fine-tuning of Large Vision-Language Foundation Models" in the [UKAI Conference](https://uk-ai.org/ukai2024/).
+
+**[Feb. 2024]** Our work on Missing modality Multimodal Federated Learning is now online. Read it [here](https://arxiv.org/pdf/2402.05294)
+
 **[Dec. 2023]** Arxiv Pre-prints of two machine learning projects by my students ([1](https://arxiv.org/pdf/2312.05717.pdf) and [2](https://arxiv.org/pdf/2312.07571.pdf)) are now available.
 
 **[Dec. 2023]** Gave an Invited Talk on Federated Learning - Vision, Challenges, and Applications in the Hands-On Workshop on <a href="https://twitter.com/nitrourkela/status/1719255807605498108">"Machine Learning: An Industry Academia Initiative"</a>, organized by NIT Rourkela, India.

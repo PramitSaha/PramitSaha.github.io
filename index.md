@@ -12,6 +12,8 @@ layout: home
 
 **[Nov. 2024]** I presented our work "Optimizing Selective Adapter Insertion for Federated Fine-tuning of Large Vision-Language Foundation Models" in the [UKAI Conference](https://uk-ai.org/ukai2024/).
 
+**[Sept. 2024]** I am serving as a program committee member of AAAI-AISI 2025.
+
 **[Feb. 2024]** Our work on Missing modality Multimodal Federated Learning is now online. Read it [here](https://arxiv.org/pdf/2402.05294)
 
 **[Dec. 2023]** Arxiv Pre-prints of two machine learning projects by my students ([1](https://arxiv.org/pdf/2312.05717.pdf) and [2](https://arxiv.org/pdf/2312.07571.pdf)) are now available.

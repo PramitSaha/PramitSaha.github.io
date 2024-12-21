@@ -15,7 +15,7 @@ for Finetuning Foundation Models in Multi-Modal Federated Learning" has been acc
 
 **[Nov. 2024]** I presented our work "Optimizing Selective Adapter Insertion for Federated Fine-tuning of Large Vision-Language Foundation Models" in the [UKAI Conference](https://uk-ai.org/ukai2024/).
 
-**[Oct. 2024]**Our Federated Learning work on "Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities" has been accepted to [WACV 2025](https://wacv2025.thecvf.com/). 
+**[Oct. 2024]** Our Federated Learning work on "Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities" has been accepted to [WACV 2025](https://wacv2025.thecvf.com/). 
 
 **[Sept. 2024]** I am serving as a program committee member of AAAI-AISI 2025.
 

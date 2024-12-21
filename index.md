@@ -7,6 +7,7 @@ layout: home
 ---
 ## Updates
 **[Dec. 2024]** Three papers: Two on Federated Learning (first-authored) and one on Visual Query-Based Video Clip Localization (second-authored) accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+
 **[Dec. 2024]** Our Federated Learning work "FedPIA - Permuting and Integrating Adapters leveraging Wasserstein Barycenters
 for Finetuning Foundation Models in Multi-Modal Federated Learning" has been accepted in **AAAI 2025 (Main Track)**. Read it [here](https://arxiv.org/pdf/2412.14424)
 

@@ -11,7 +11,7 @@ layout: home
 **[Dec. 2024]** Our Federated Learning work "FedPIA - Permuting and Integrating Adapters leveraging Wasserstein Barycenters
 for Finetuning Foundation Models in Multi-Modal Federated Learning" has been accepted in **AAAI 2025 (Main Track)**. Read it [here](https://arxiv.org/pdf/2412.14424)
 
-**[Dec. 2024]** Our Federated Learning work "F3OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics" is now online. Read it [here](https://arxiv.org/pdf/2411.11912)
+**[Dec. 2024]** Our latest Federated Learning work "F3OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics" is now online. Read it [here](https://arxiv.org/pdf/2411.11912)
 
 **[Nov. 2024]** I presented our work "Optimizing Selective Adapter Insertion for Federated Fine-tuning of Large Vision-Language Foundation Models" in the [UKAI Conference](https://uk-ai.org/ukai2024/).
 

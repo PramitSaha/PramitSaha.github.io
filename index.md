@@ -6,7 +6,7 @@ title: Home
 layout: home
 ---
 ## Updates
-**[Jan. 2025]** I have been selected to give a talk on our Federated Learning works at the FLOWER AI Summit 2025 in London which is the largest Federated Learning Conference. 
+**[Jan. 2025]** I have been selected to give a talk on our Federated Learning works at the [FLOWER AI Summit 2025](https://flower.ai/events/flower-ai-summit-2025/) in London which is the largest Federated Learning Conference. 
 
 **[Dec. 2024]** Three papers: Two on Federated Learning (first-authored) and one on Visual Query-Based Video Clip Localization (second-authored) accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 

@@ -137,32 +137,20 @@ SOUNDS OF LANGUAGE</a>
 ## Services
 
    **Program Committee**
+   
+   •  AAAI 2025 Artificial Intelligence for Social Impact Track
 
    •  5th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2023)
 
    •  4th MICCAI Workshop on Domain Adaptation and Representation Transfer (DART 2022)
 
    **Conference Reviewer**
-
-   •  IEEE ISBI 2024
-  
-   •  MICCAI 2023
-  
-   •  DART MICCAI 2022
-  
-   •  MICCAI 2020
-  
-   •  MICCAI 2019
-  
-   •  IEEE TENCON 2016
+   
+   •  CVPR 2025, ICLR 2025, AAAI AISI 2025, IEEE ISBI 2024, MICCAI 2023, DART MICCAI 2022, MICCAI 2020, MICCAI 2019, IEEE TENCON 2016
 
    **Journal Reviewer**
 
-   •  IEEE Access
-  
-   •  Neural Computing & Applications
-
-   •  Knowledge-Based Systems (Elsevier)
+   •  IEEE TMC, IEEE Access, Neural Computing & Applications, Knowledge-Based Systems (Elsevier)
    
 <br>
 <br>

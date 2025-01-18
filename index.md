@@ -25,6 +25,8 @@ for Finetuning Foundation Models in Multi-Modal Federated Learning" has been acc
 
 **[Sept. 2024]** I am serving as a program committee member of AAAI-AISI 2025.
 
+**[July 2024]** Our paper STAN-LOC: Visual Query-based Video Clip Localization for Fetal Ultrasound Sweep Videos has been accepted. Read it [here](https://papers.miccai.org/miccai-2024/paper/0870_paper.pdf)
+
 **[Feb. 2024]** Our work on Missing modality Multimodal Federated Learning is now online. Read it [here](https://arxiv.org/pdf/2402.05294)
 
 **[Dec. 2023]** Arxiv Pre-prints of two machine learning projects by my students ([1](https://arxiv.org/pdf/2312.05717.pdf) and [2](https://arxiv.org/pdf/2312.07571.pdf)) are now available.

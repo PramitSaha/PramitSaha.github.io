@@ -109,19 +109,21 @@ SOUNDS OF LANGUAGE</a>
 
 • **Lead Tutor** at <a href="https://eng.ox.ac.uk/">Department of Engineering Science</a>, University of Oxford 
 
-  Subject taught: B15 - Control Systems (2022-23, 2023-24)
+  Subject taught: B15 - Control Systems (2022-23, 2023-24, 2024-25)
 
 • **Lab demonstrator** at <a href="https://eng.ox.ac.uk/">Department of Engineering Science</a>, University of Oxford
 
   Subjects taught: Electrical Machines Lab (2022, 2023), Electrical Lab (2022), Computing Lab (2022, 2023)
   
 • **Course Instructor** (Engineering, Artificial Intelligence) at <a href="https://www.immerse.education/">Immerse Education</a>, United Kingdom (2022, 2023)
-  
-• **Research Mentor** (Machine Learning) at <a href="https://www.lumiere-education.com/">Lumiere Education</a> (2022, 2023)
 
-• **Research Mentor** (Machine Learning) at <a href="https://www.horizoninspires.com/">Horizon Academic</a> (2022, 2023)
+• **Research Mentor** (Machine Learning) at <a href="https://www.lumiere-education.com/">Veritas AI</a> (2023 - 2025)
 
-• **Teaching Assistant** (Machine Learning in Computer Vision) at <a href="https://cambridge-research.org/">Cambridge Centre for International Research (CCIR)</a>,  United Kingdom (2022, 2023)
+• **Research Mentor** (Engineering, Machine Learning) at <a href="https://www.lumiere-education.com/">Lumiere Education</a> (2022 - 2025)
+
+• **Research Mentor** (Machine Learning) at <a href="https://www.horizoninspires.com/">Horizon Academic</a> (2022 - 2025)
+
+• **Teaching Assistant** (Machine Learning in Computer Vision) at <a href="https://cambridge-research.org/">Cambridge Centre for International Research (CCIR)</a>,  United Kingdom (2022 - 2025)
 
 • **Interview Tutor** (Computer Science, Engineering) and **Application Mentor** at <a href="https://www.crimsoneducation.org/uk/">Crimson Education</a>, United Kingdom (2022, 2023)
 

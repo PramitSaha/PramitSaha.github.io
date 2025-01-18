@@ -86,6 +86,8 @@ for Finetuning Foundation Models in Multi-Modal Federated Learning" has been acc
 
 •  <a href="https://www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project">UBC ECE Graduate Student Achievement</a>
 
+•  <a href="https://www.youtube.com/watch?v=erDBurG_w18">Study Abroad Experience Podcast</a>
+
 
 <br>
 <br>

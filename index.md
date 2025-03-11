@@ -6,7 +6,7 @@ title: Home
 layout: home
 ---
 ## Updates
-**[Feb. 2025]** My first-authored paper on Federated Fine-tuning of Foundation Models have been accepted in CVPR 2025. Read the pre-print [here](https://arxiv.org/pdf/2411.11912).
+**[Feb. 2025]** My first-authored paper on Federated Fine-tuning of Foundation Models has been accepted in **CVPR 2025**. Read the pre-print [here](https://arxiv.org/pdf/2411.11912).
 
 **[Jan. 2025]** I have been featured in the [Study Abroad Experience Podcast](https://www.youtube.com/watch?v=erDBurG_w18)
 

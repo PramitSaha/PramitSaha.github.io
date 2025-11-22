@@ -6,7 +6,7 @@ title: Home
 layout: home
 ---
 ## Updates
-**[Nov. 2025]** I have been selected to give a talk on our Vision-Language Model Fine-tuning works at the [BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond 2025](https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html) in London. 
+**[Nov. 2025]** I was selected to give a talk on our Vision-Language Model Fine-tuning works at the [BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond 2025](https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html) in London. 
 
 **[Oct. 2025]** I was invited to give a talk on our real-world Federated Learning works at the [FLOWER UK HLS Day 2025](https://flower.ai/events/flower-uk-health-life-sciences-day/) in Cambridge. 
 

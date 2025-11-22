@@ -20,11 +20,7 @@ Hello, thanks for visiting my webpage. If you want to know a bit more about me a
 My name is Pramit and I am currently a Post-doctoral Fellow in the Department of Engineering Science at [University of Oxford](https://eng.ox.ac.uk/). I completed my DPhil (PhD) from the same department and was fortunate to be supervised by [Prof. Alison Noble](https://en.wikipedia.org/wiki/Alison_Noble). I am working at the intersection of medical image analysis/computer vision, and deep learning in healthcare with a special focus on solving challenges in Real-world Federated Learning, Multimodal Learning, and Multi-agent Systems. My DPhil was funded by the [VisualAI project](https://www.robots.ox.ac.uk/~vgg/projects/visualai/). [Here](https://eng.ox.ac.uk/people/pramit-saha/) is my university profile. 
 
 I am a part of the [Oxford Biomedical Image Analysis (BioMedIA) cluster](https://eng.ox.ac.uk/biomedical-image-analysis/) and I also work closely in collaboration with [Prof. Konstantinos Kamnitsas](https://ibme.ox.ac.uk/person/konstantinos-kamnitsas/) and [Prof. David Clifton](https://eng.ox.ac.uk/chi/team). During my PhD, I also acted as the Biomed Student Representative of the Graduate Joint Consultative Committee (GJCC) that provides a forum for discussion and negotiation between the students and staff concerning a range of matters that arise throughout the year. 
-<br>
-<div style="display: flex; justify-content: center;">
-    <img src="/images/media.jpg" alt="" style="width: 1400px; height: 350px;" />
-</div>
-<br>
+
 My recent work [IsoFed](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_39) on Semi-supervised Federated Learning (shown below) has been published in MICCAI 2023 and recognized as one of the top 20 Highlights of the conference. 
 <br>
 <div style="display: flex; justify-content: center;">

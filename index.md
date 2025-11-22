@@ -6,6 +6,20 @@ title: Home
 layout: home
 ---
 ## Updates
+**[Nov. 2025]** I have been selected to give a talk on our Vision-Language Model Fine-tuning works at the [BMVA Symposium on Multimodal Large Models: Bridging Vision, Language, and Beyond 2025](https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html) in London. 
+
+**[Oct. 2025]** I was invited to give a talk on our real-world Federated Learning works at the [FLOWER UK HLS Day 2025](https://flower.ai/events/flower-uk-health-life-sciences-day/) in Cambridge. 
+
+**[Oct. 2025]** I defended my thesis successfully on "Advancing Federated Learning towards Real-world Medical Image Analysis Applications" with Prof. [Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/) and Prof. [Nic Lane](https://www.cst.cam.ac.uk/people/ndl32) as my examiners.
+
+**[Sep. 2025]** Two papers: One on [Federated Learning](https://neurips.cc/virtual/2025/loc/san-diego/poster/115312) and another on [Ultrasound Video foundation Models](https://neurips.cc/virtual/2025/loc/san-diego/poster/120161) accepted to [NeurIPS 2025](https://neurips.cc/).
+
+**[June 2025]** My first-author paper on model merging entitled Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos" has been accepted in MICCAI 2025.
+
+**[April 2025]** Our paper on video understanding entitled "TIER-LOC: Visual Query-based Video Clip Localization in Fetal Ultrasound Videos with a Multi-Tier Transformer" has been accepted in Medical Image Analysis, Elsevier (IF: 11.8)
+
+**[April 2025]** I submitted my thesis on "Advancing Federated Learning towards Real-world Medical Image Analysis Applications" and joined the Department of Engineering Science as a [post-doctoral researcher](https://eng.ox.ac.uk/people/pramit-saha).
+
 **[Feb. 2025]** My first-authored paper on Federated Fine-tuning of Foundation Models has been accepted in **CVPR 2025**. Read the pre-print [here](https://arxiv.org/pdf/2411.11912).
 
 **[Jan. 2025]** I have been featured in the [Study Abroad Experience Podcast](https://www.youtube.com/watch?v=erDBurG_w18)
